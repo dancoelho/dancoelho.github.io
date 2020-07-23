@@ -7,17 +7,17 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+<!-- {% include base_path %} -->
 
-Education
+Research
 ======
-* M.S. in Mechanical Engineering<br>
+<!-- * M.S. in Mechanical Engineering<br>
   PPGEM, Rio de Janeiro State University (UERJ), Brazil, 2020 (expected)<br>
   Advisors: [José Pontes](http://www.gesar.uerj.br/en/staff/professor-jose-pontes.html), 
   [Norberto Mangiavacchi](http://www.gesar.uerj.br/en/staff/professor-norberto-mangiavacchi.html)
 * B.S. in Mechanical Engineering<br>
   PPGEM, Rio de Janeiro State University (UERJ), Brazil, 2019<br>
-  Advisors: [José Pontes](http://www.gesar.uerj.br/en/staff/professor-jose-pontes.html)
+  Advisors: [José Pontes](http://www.gesar.uerj.br/en/staff/professor-jose-pontes.html) -->
 
 <!-- Honors & Awards
 ======
