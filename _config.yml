@@ -12,7 +12,7 @@ minify_html: false
 locale                   : "en-US"
 title                    : "Daniel Lessa Coelho"
 title_separator          : "-"
-name                     : &name "Daniel L. Coelho"
+name                     : &name "Daniel Lessa Coelho"
 description              : &description "personal description"
 url                      : "https://dancoelho.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -83,14 +83,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Daniel L. Coelho"
+  name             : "Daniel Lessa Coelho"
   avatar           : "profilepic.jpg"
-  bio              : "Mechanical Engineering MSc Student"
+  bio              : "MSc candidate in Mechanical Engineering"
   location         : "Rio de Janeiro RJ, Brazil"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "danielcoelho.uerj@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Daniel_Coelho4"
   uri              :
   bitbucket        :
