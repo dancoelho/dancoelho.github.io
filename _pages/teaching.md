@@ -21,7 +21,7 @@ FEN03-05100: Tópicos Especiais em Engenharia Mecânica I (2020.1)
 As principais informações acerca da disciplina estão na seguinte 
 <a href="{{ base_path }}/files/Proposta_disciplina_eletiva_MECAN.pdf" target="_blank">ementa</a>.
 
-### Primeira Parte (D. Coelho)
+### Parte I (D. Coelho)
 
 |Aulas:|Disponível:|Conteúdo:|
 |------|-----------|---------|
