@@ -9,8 +9,8 @@ redirect_from:
 
 <!-- {% include base_path %} -->
 
-Research
-======
+<!-- Research
+====== -->
 <!-- * M.S. in Mechanical Engineering<br>
   PPGEM, Rio de Janeiro State University (UERJ), Brazil, 2020 (expected)<br>
   Advisors: [José Pontes](http://www.gesar.uerj.br/en/staff/professor-jose-pontes.html), 
