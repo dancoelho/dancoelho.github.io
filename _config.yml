@@ -12,7 +12,7 @@ minify_html: false
 locale                   : "en-US"
 title                    : "Daniel Lessa Coelho"
 title_separator          : "-"
-name                     : &name "Daniel L. Coelho"
+name                     : &name "Daniel Lessa Coelho"
 description              : &description "personal description"
 url                      : "https://dancoelho.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -83,7 +83,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Daniel Lessa Coelho"
+  name             : "Daniel L. Coelho"
   avatar           : "profilepic.jpg"
   bio              : "MSc candidate in Mechanical Engineering"
   location         : "Rio de Janeiro RJ, Brazil"
