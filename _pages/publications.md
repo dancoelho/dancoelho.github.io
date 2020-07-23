@@ -15,7 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-Further information about this list of publications can be found in [Google Scholar](http://www.gesar.uerj.br/en/staff/professor-jose-pontes.html).
+Further information about this list of publications can be found in [Google Scholar](https://scholar.google.com.br/citations?user=HxYY8LQAAAAJ&hl=pt-BR).
 
 ## Journal Articles
 
