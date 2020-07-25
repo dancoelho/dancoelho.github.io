@@ -21,13 +21,28 @@ FEN03-05100: Tópicos Especiais em Engenharia Mecânica I (2020.1)
 As principais informações acerca da disciplina estão na seguinte 
 <a href="{{ base_path }}/files/Proposta_disciplina_eletiva_MECAN.pdf" target="_blank">ementa</a>.
 
-### Parte I (D. Coelho)
+### Parte I -- Método de Diferenças Finitas (D. L. Coelho)
 
 |Aulas:|Disponível:|Conteúdo:|
 |------|-----------|---------|
 | <a href="{{ base_path }}/files/Aula01.pdf" target="_blank">Aula01</a> | 09/03/2020 | Apresentação da disciplina, avaliação e materiais adotados (D. Coelho e L. Carnevale)|
-| <a href="{{ base_path }}/files/Aula02.pdf" target="_blank">Aula02</a> | 01/07/2020 | Introdução ao método das diferenças finitas (D. Coelho)|
-| <a href="{{ base_path }}/files/Aula01.pdf" target="_blank">Aula03</a> | -          | Método das diferenças finitas (D. Coelho)|
+| <a href="{{ base_path }}/files/Aula02.pdf" target="_blank">Aula02</a> | 01/07/2020 | Introdução ao método de diferenças finitas (D. Coelho)|
+| Aula03 | -          | Método de diferenças finitas (D. Coelho)|
+| Aula04 | -          | |
+| Aula05 | -          | |
+| Aula06 | -          | |
+
+
+### Parte II -- Método de Elementos Finitos (L. H. Carnevale)
+
+|Aulas:|Disponível:|Conteúdo:|
+|------|-----------|---------|
+| Aula01 | -          | |
+| Aula02 | -          | |
+| Aula03 | -          | |
+| Aula04 | -          | |
+| Aula05 | -          | |
+| Aula06 | -          | |
 
 
 <!-- FEN03-05100: Tópicos Especiais em Engenharia Mecânica I (2020.1)
