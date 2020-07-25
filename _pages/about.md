@@ -10,6 +10,12 @@ redirect_from:
 
 Currently a Master’s Degree student at Rio de Janeiro State University (UERJ). Mainly interested in research regarding computational materials science (theory and simulation), with emphasis on Pattern Formation, Defects and Microstructures in Nonequilibrium Systems; involving numerical and nonlinear methods (linear stability analysis, weakly nonlinear analysis, etc). Other interests are Metallurgy, Solid State Physics, Nanotechnology and Computational Engineering.
 
+
+My research interests lie in mechanics of materials and soft matter, including:
+
+* Continuum mechanical description of soft materials
+* Phase-field modeling
+
 <!-- This is the front PAGE of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
 
 <!-- A data-driven personal website
