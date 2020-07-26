@@ -25,7 +25,7 @@ Several numerical works consider regular geometries when studying temperature gr
 <img src="{{ base_path }}/images/RB/fig_10.png" alt="RB-cell-2" style="width:200px;height:200px;"> &nbsp;&nbsp;
 <img src="{{ base_path }}/images/RB/fig_100.png" alt="RB-cell-3" style="width:200px;height:200px;"> &nbsp;&nbsp;
 <img src="{{ base_path }}/images/RB/fig_750.png" alt="RB-cell-4" style="width:200px;height:200px;"> -->
-<img src="{{ base_path }}/images/RB/full.png" alt="RB-full" style="width:auto;height:200px;">
+<img src="{{ base_path }}/images/RB/full.png" alt="RB-full" style="width:100%;height:auto;">
 <br><br>
 
 
@@ -43,13 +43,13 @@ Bénard-Marangoni convection exhibits square, hexagonal, and other peculiar patt
 
 
 The Cahn–Hilliard equation was proposed to model the process of phase separation in binary alloys. This equation has been extended to a variety of chemical, physical, biological, and other engineering fields such as spinodal decomposition, diblock copolymer, image inpainting, multiphase fluid flows, microstructures with elastic inhomogeneity, tumor growth simulation, and topology optimization. A common feature among those physical systems is the coarsening dynamics.
+<!-- 
+<img src="{{ base_path }}/images/CH/CH1.png" alt="cahn-hilliard-1" style="width:auto;height:250px;"> &nbsp;&nbsp; -->
+<!-- <img src="{{ base_path }}/images/CH/CH2.png" alt="cahn-hilliard-2" style="width:auto;height:250px;">;&nbsp;&nbsp; -->
+<!-- <img src="{{ base_path }}/images/CH/CH3.png" alt="cahn-hilliard-3" style="width:auto;height:250px;">;&nbsp;&nbsp; -->
+<!-- <img src="{{ base_path }}/images/CH/CH4.png" alt="cahn-hilliard-4" style="width:auto;height:250px;"> -->
 
-<img src="{{ base_path }}/images/CN/CN1.png" alt="cahn-hilliard-1" style="width:auto;height:250px;"> &nbsp;&nbsp;&nbsp;&nbsp;
-<!-- <img src="{{ base_path }}/images/CN/CN2.png" alt="cahn-hilliard-2" style="width:auto;height:250px;">;&nbsp;&nbsp; -->
-<img src="{{ base_path }}/images/CN/CN3.png" alt="cahn-hilliard-3" style="width:auto;height:250px;">;&nbsp;&nbsp;
-<img src="{{ base_path }}/images/CN/CN4.png" alt="cahn-hilliard-4" style="width:auto;height:250px;">
-
-
+<img src="{{ base_path }}/images/CH/full.png" alt="CH-full" style="width:100%;height:auto;">
 
 
 
