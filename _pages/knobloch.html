@@ -19,23 +19,41 @@ Numerical results obtained for the equation derived by E. Knobloch used to study
 	\delta \nabla^2|\nabla u|^2
 \]
 
-Generalized Dirichlet boundary conditions (\(u={\partial u}/{\partial n}=0\)) were assumed for the numerical integration of the governing equation. The numerical scheme consisted of the classical operator splitting scheme of \textit{stabilizing correction}, presenting fourth-order diffusion operators. The \(L_1\) norm was used to measure the rate of change of the distance between to successive states of the system, therefore, it is sensitive to the evolution of both the amplitude and the phase. Steady states assumed for \(L_1 \leq 1 \times 10^{-6}\).
+Generalized Dirichlet boundary conditions (\(u={\partial u}/{\partial n}=0\)) were assumed for the numerical integration of the governing equation. The numerical scheme consisted of the classical operator splitting scheme of <i>stabilizing correction</i>, presenting fourth-order diffusion operators. The \(L_1\) norm was used to measure the rate of change of the distance between to successive states of the system, therefore, it is sensitive to the evolution of both the amplitude and the phase. Steady states assumed for \(L_1 \leq 1 \times 10^{-6}\).
 
 <br><br>
-Figure 1 shows results obtained for: \(\alpha=0.0\), \(\mu=2.0\), \(k=1\), \(\beta=-0.125\sqrt{7}\), \(\gamma=0.0\) and \(\delta=0.75\sqrt{7}\). The grid is uniform, structured and staggered with a resolution of \(8\) points per wavelength. This is a square domain of \(10 \times 10\) wavelengths:
+FIG. \(1\) shows results obtained for: \(\alpha=0.0\), \(\mu=2.0\), \(k=1\), \(\beta=-0.125\sqrt{7}\), \(\gamma=0.0\) and \(\delta=0.75\sqrt{7}\). The grid is uniform, structured and staggered with a resolution of \(8\) points per wavelength. This is a square domain of \(10 \times 10\) wavelengths:
 <br><br>
 
-<center>
-<img src="{{ base_path }}/images/KN/KN1-evo.png" style="width:80%;height:auto;">
-</center>
+<figure>
+	<center>
+		<img src="{{ base_path }}/images/KN/KN1-evo.png" style="width:80%;height:auto;">
+	</center>
+		<figcaption >
+			FIG. \(1\):
+			Pattern evolution and its \(L_1\) norm. It is expected that the structure evolves into a stationary single-cell state, filling the whole bounding box.
+		</figcaption>
+</figure>
 
-<br><br>
-Figure 2 shows results obtained for: \(\alpha=-0.8\), \(\mu=2.7\), \(k=1\), \(\beta=-0.125\sqrt{7}\), \(\gamma=0.0\) and \(\delta=-0.75\sqrt{7}\). The grid is uniform, structured and staggered with a resolution of \(8\) points per wavelength. This is a square domain of \(10 \times 10\) wavelengths:
+<br>
+FIG. \(2\) shows results obtained for: \(\alpha=-0.8\), \(\mu=2.7\), \(k=1\), \(\beta=-0.125\sqrt{7}\), \(\gamma=0.0\) and \(\delta=-0.75\sqrt{7}\). The grid is uniform, structured and staggered with a resolution of \(8\) points per wavelength. This is a square domain of \(10 \times 10\) wavelengths:
 <br><br>
 
-<center>
-<img src="{{ base_path }}/images/KN/KN2-evo.png" style="width:80%;height:auto;">
-</center>
+<figure>
+	<center>
+		<img src="{{ base_path }}/images/KN/KN2-evo.png" style="width:80%;height:auto;">
+	</center>
+		<figcaption >
+			FIG. \(2\):
+			Pattern evolution and its \(L_1\) norm. It is expected that the structure evolves into a stationary square pattern for this range of parameters.
+		</figcaption>
+</figure>
+
+<br><br><br><br>
+<h>References</h>
+
+
+
 
 <!-- \[x = {-b \pm \sqrt{b^2-4ac} \over 2a}.\]
 
