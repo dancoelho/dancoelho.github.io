@@ -20,10 +20,7 @@ Numerical results obtained for the equation derived by E. Knobloch used to study
 \]
 
 Generalized Dirichlet boundary conditions (\(u={\partial u}/{\partial n}=0\)) were assumed for the numerical integration of the governing equation. The numerical scheme consisted of the classical operator splitting scheme of <i>stabilizing correction</i>, presenting fourth-order diffusion operators. The \(L_1\) norm was used to measure the rate of change of the distance between to successive states of the system, therefore, it is sensitive to the evolution of both the amplitude and the phase. Steady states assumed for \(L_1 \leq 1 \times 10^{-6}\).
-
-<br><br>
-FIG. \(1\) shows results obtained for: \(\alpha=0.0\), \(\mu=2.0\), \(k=1\), \(\beta=-0.125\sqrt{7}\), \(\gamma=0.0\) and \(\delta=0.75\sqrt{7}\). The grid is uniform, structured and staggered with a resolution of \(8\) points per wavelength. This is a square domain of \(10 \times 10\) wavelengths:
-<br><br>
+<br>
 
 <figure>
 	<center>
@@ -31,13 +28,9 @@ FIG. \(1\) shows results obtained for: \(\alpha=0.0\), \(\mu=2.0\), \(k=1\), \(\
 	</center>
 		<figcaption >
 			FIG. \(1\):
-			Pattern evolution and its \(L_1\) norm. It is expected that the structure evolves into a stationary single-cell state, filling the whole bounding box.
+			Pattern evolution and its \(L_1\) norm. The simulation departed from random initial conditions around the solution \(u=0\). It is expected that the structure evolves into a stationary single-cell state, filling the whole bounding box.
 		</figcaption>
 </figure>
-
-<br>
-FIG. \(2\) shows results obtained for: \(\alpha=-0.8\), \(\mu=2.7\), \(k=1\), \(\beta=-0.125\sqrt{7}\), \(\gamma=0.0\) and \(\delta=-0.75\sqrt{7}\). The grid is uniform, structured and staggered with a resolution of \(8\) points per wavelength. This is a square domain of \(10 \times 10\) wavelengths:
-<br><br>
 
 <figure>
 	<center>
@@ -45,14 +38,23 @@ FIG. \(2\) shows results obtained for: \(\alpha=-0.8\), \(\mu=2.7\), \(k=1\), \(
 	</center>
 		<figcaption >
 			FIG. \(2\):
-			Pattern evolution and its \(L_1\) norm. It is expected that the structure evolves into a stationary square pattern for this range of parameters.
+			Pattern evolution and its \(L_1\) norm. The simulation departed from random initial conditions around the solution \(u=0\). It is expected that the structure evolves into a stationary square pattern for this range of parameters.
 		</figcaption>
 </figure>
 
-<br><br><br><br>
-<h>References</h>
+FIG. 1 shows results obtained for: \(\alpha=0.0\), \(\mu=2.0\), \(k=1\), \(\beta=-0.125\sqrt{7}\), \(\gamma=0.0\) and \(\delta=0.75\sqrt{7}\). FIG. 2 shows results obtained for: \(\alpha=-0.8\), \(\mu=2.7\), \(k=1\), \(\beta=-0.125\sqrt{7}\), \(\gamma=0.0\) and \(\delta=-0.75\sqrt{7}\). The grid is uniform, structured and staggered with a resolution of \(8\) points per wavelength. This corresponds to a square domain of \(10 \times 10\) wavelengths per side length.
 
+<br><br><br>
 
+<h2>References</h2>
+
+[1] <a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.48.3622" target="_blank">
+Bestehorn, M. (1993). Phase and amplitude instabilities for Bénard-Marangoni convection in fluid layers with large aspect ratio. Physical Review E, 48(5), 3622.
+</a>
+<br>
+[2] <a href="https://www.sciencedirect.com/science/article/pii/S0045782596011760" target="_blank">
+Christov, C. I., Pontès, J., Walgraef, D., & Velarde, M. G. (1997). Implicit time splitting for fourth-order parabolic equations. Computer methods in applied mechanics and engineering, 148(3-4), 209-224.
+</a>
 
 
 <!-- \[x = {-b \pm \sqrt{b^2-4ac} \over 2a}.\]
