@@ -21,10 +21,11 @@ Gradients of the bifurcation parameter can induce stripe orientation in the Swif
 
 Several numerical works consider regular geometries when studying temperature gradients across a Rayleigh-Bénard convection cell. A numerical approach is proposed for studying such system in a circular geometry maintaining second-order accuracy for the boundary conditions.
 
-<img src="{{ base_path }}/images/RB/fig_0.png" alt="RB-cell-1" style="width:200px;height:200px;"> &nbsp;&nbsp;
+<!-- <img src="{{ base_path }}/images/RB/fig_0.png" alt="RB-cell-1" style="width:200px;height:200px;"> &nbsp;&nbsp;
 <img src="{{ base_path }}/images/RB/fig_10.png" alt="RB-cell-2" style="width:200px;height:200px;"> &nbsp;&nbsp;
 <img src="{{ base_path }}/images/RB/fig_100.png" alt="RB-cell-3" style="width:200px;height:200px;"> &nbsp;&nbsp;
-<img src="{{ base_path }}/images/RB/fig_750.png" alt="GRB-cell-4" style="width:200px;height:200px;">
+<img src="{{ base_path }}/images/RB/fig_750.png" alt="RB-cell-4" style="width:200px;height:200px;"> -->
+<img src="{{ base_path }}/images/RB/full.png" alt="RB-full" style="width:200px;height:200px;">
 <br><br>
 
 
