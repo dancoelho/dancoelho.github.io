@@ -7,8 +7,9 @@ redirect_from:
   - /resume
 ---
 
+<!-- <a href="{{ base_path }}/files/Aula01.pdf" target="_blank"> Aula01</a> -->
 
-## [Nonuniform forcing and stripe orientation in Swift-Hohenberg]({{ base_path }}/_pages/404.md)
+## [Nonuniform forcing and stripe orientation in Swift-Hohenberg](../_pages/404.md)
 
 Gradients of the bifurcation parameter can induce stripe orientation in the Swift-Hohenberg dynamics. However, they face competition from boundary, bulk and geometric effects, and pattern alignment becomes an intricate question.
 
@@ -16,7 +17,7 @@ Gradients of the bifurcation parameter can induce stripe orientation in the Swif
 <br><br>
 
 
-## [Ramped Rayleigh-Bénard systems in circular geometries]({{ base_path }}/_pages/404.md)
+## [Ramped Rayleigh-Bénard systems in circular geometries](../_pages/404.md)
 
 
 Several numerical works consider regular geometries when studying temperature gradients across a Rayleigh-Bénard convection cell. A numerical approach is proposed for studying such system in a circular geometry maintaining second-order accuracy for the boundary conditions.
@@ -29,7 +30,7 @@ Several numerical works consider regular geometries when studying temperature gr
 <br><br>
 
 
-## [Pattern formation in the Bénard-Marangoni convection]({{ base_path }}/_pages/404.md)
+## [Pattern formation in the Bénard-Marangoni convection](../_pages/knobloch.md)
 
 
 Bénard-Marangoni convection exhibits square, hexagonal, and other peculiar patterns that can be modeled by the Knobloch equation. This fourth-order nonlinear evolution equation is derived via multiple scale formalism and exhibits the main features of the full dynamics.
@@ -40,7 +41,7 @@ Bénard-Marangoni convection exhibits square, hexagonal, and other peculiar patt
 <br><br>
 
 
-## [Coarsening Dynamics in the Cahn-Hilliard Equation]({{ base_path }}/_pages/404.md)
+## [Coarsening Dynamics in the Cahn-Hilliard Equation](../_pages/404.md)
 
 
 The Cahn–Hilliard equation was proposed to model the process of phase separation in binary alloys. This equation has been extended to a variety of chemical, physical, biological, and other engineering fields such as spinodal decomposition, diblock copolymer, image inpainting, multiphase fluid flows, microstructures with elastic inhomogeneity, tumor growth simulation, and topology optimization. A common feature among those physical systems is the coarsening dynamics.
