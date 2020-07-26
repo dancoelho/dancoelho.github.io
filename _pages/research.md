@@ -9,6 +9,22 @@ redirect_from:
 
 <!-- <a href="{{ base_path }}/files/Aula01.pdf" target="_blank"> Aula01</a> -->
 
+
+<!-- ## [Transient Chaos in Potential and Nonpotential Swift-Hohenberg Dynamics](../_pages/404.md)
+
+Gradients of the bifurcation parameter can induce stripe orientation in the Swift-Hohenberg dynamics. However, they face competition from boundary, bulk and geometric effects, and pattern alignment becomes an intrinsicate question.
+
+<img src="{{ base_path }}/images/SH/SH23nonuniform.png" alt="SH23" style="width:40%;height:auto;">
+<br><br> -->
+
+<!-- ## [Gradient Pattern Analysis of patterns](../_pages/404.md)
+
+Gradients of the bifurcation parameter can induce stripe orientation in the Swift-Hohenberg dynamics. However, they face competition from boundary, bulk and geometric effects, and pattern alignment becomes an intrinsicate question.
+
+<img src="{{ base_path }}/images/SH/SH23nonuniform.png" alt="SH23" style="width:40%;height:auto;">
+<br><br> -->
+
+
 ## [Nonuniform forcing and stripe orientation in Swift-Hohenberg](../_pages/404.md)
 
 Gradients of the bifurcation parameter can induce stripe orientation in the Swift-Hohenberg dynamics. However, they face competition from boundary, bulk and geometric effects, and pattern alignment becomes an intrinsicate question.
