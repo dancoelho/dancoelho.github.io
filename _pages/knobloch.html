@@ -1,0 +1,43 @@
+---
+layout: archive
+title: "Pattern formation in the Bénard-Marangoni convection"
+permalink: /knobloch/
+<!-- author_profile: true -->
+<!-- redirect_from:
+  - /resume -->
+---
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+<br><br>
+
+Numerical results obtained for the equation derived by E. Knobloch used to study long wavelength pattern formation in the Bénard-Marangoni convection:
+
+\[
+	\dfrac{\partial u}{\partial t}=\alpha u-\mu \nabla^2u-\nabla^4u+
+	k\nabla \cdot |\nabla u|^2\nabla u+
+	\beta\nabla\cdot \left(\nabla^2 u \nabla u \right) - \gamma\nabla\cdot u \nabla u +
+	\delta \nabla^2|\nabla u|^2
+\]
+
+Generalized Dirichlet boundary conditions (\(u={\partial u}/{\partial n}=0\)) were assumed for the numerical integration of the governing equation. The numerical scheme consisted of the classical operator splitting scheme of \textit{stabilizing correction}, presenting fourth-order diffusion operators. The \(L_1\) norm was used to measure the rate of change of the distance between to successive states of the system, therefore, it is sensitive to the evolution of both the amplitude and the phase. Steady states assumed for \(L_1 \leq 1 \times 10^{-6}\).
+
+<br><br>
+Figure 1 shows results obtained for: \(\alpha=0.0\), \(\mu=2.0\), \(k=1\), \(\beta=-0.125\sqrt{7}\), \(\gamma=0.0\) and \(\delta=0.75\sqrt{7}\). The grid is uniform, structured and staggered with a resolution of \(8\) points per wavelength. This is a square domain of \(10 \times 10\) wavelengths:
+<br><br>
+
+<center>
+<img src="{{ base_path }}/images/KN/KN1-evo.png" style="width:80%;height:auto;">
+</center>
+
+<br><br>
+Figure 2 shows results obtained for: \(\alpha=-0.8\), \(\mu=2.7\), \(k=1\), \(\beta=-0.125\sqrt{7}\), \(\gamma=0.0\) and \(\delta=-0.75\sqrt{7}\). The grid is uniform, structured and staggered with a resolution of \(8\) points per wavelength. This is a square domain of \(10 \times 10\) wavelengths:
+<br><br>
+
+<center>
+<img src="{{ base_path }}/images/KN/KN2-evo.png" style="width:80%;height:auto;">
+</center>
+
+<!-- \[x = {-b \pm \sqrt{b^2-4ac} \over 2a}.\]
+
+When \(a \ne 0\), there are two solutions to \(ax^2 + bx + c = 0\) and they are
+  \[x = {-b \pm \sqrt{b^2-4ac} \over 2a}.\] -->

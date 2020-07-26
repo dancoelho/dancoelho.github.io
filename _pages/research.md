@@ -30,7 +30,7 @@ Several numerical works consider regular geometries when studying temperature gr
 <br><br>
 
 
-## [Pattern formation in the Bénard-Marangoni convection](../_pages/knobloch.md)
+## [Pattern formation in the Bénard-Marangoni convection](../_pages/knobloch.html)
 
 
 Bénard-Marangoni convection exhibits square, hexagonal, and other peculiar patterns that can be modeled by the Knobloch equation. This fourth-order nonlinear evolution equation is derived via multiple scale formalism and exhibits the main features of the full dynamics.
