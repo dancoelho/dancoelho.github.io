@@ -12,7 +12,7 @@ redirect_from:
 
 Gradients of the bifurcation parameter can induce stripe orientation in the Swift-Hohenberg dynamics. However, they face competition from boundary, bulk and geometric effects, and pattern alignment becomes an intricate question.
 
-<img src="{{ base_path }}/images/SH23nonuniform.png" alt="SH23" style="width:auto;height:300px;">
+<img src="{{ base_path }}/images/SH/SH23nonuniform.png" alt="SH23" style="width:40%;height:auto;">
 <br><br>
 
 
@@ -25,7 +25,7 @@ Several numerical works consider regular geometries when studying temperature gr
 <img src="{{ base_path }}/images/RB/fig_10.png" alt="RB-cell-2" style="width:200px;height:200px;"> &nbsp;&nbsp;
 <img src="{{ base_path }}/images/RB/fig_100.png" alt="RB-cell-3" style="width:200px;height:200px;"> &nbsp;&nbsp;
 <img src="{{ base_path }}/images/RB/fig_750.png" alt="RB-cell-4" style="width:200px;height:200px;"> -->
-<img src="{{ base_path }}/images/RB/full.png" alt="RB-full" style="width:100%;height:auto;">
+<img src="{{ base_path }}/images/RB/full.png" alt="RB-full" style="width:80%;height:auto;">
 <br><br>
 
 
@@ -34,8 +34,9 @@ Several numerical works consider regular geometries when studying temperature gr
 
 Bénard-Marangoni convection exhibits square, hexagonal, and other peculiar patterns that can be modeled by the Knobloch equation. This fourth-order nonlinear evolution equation is derived via multiple scale formalism and exhibits the main features of the full dynamics.
 
-<img src="{{ base_path }}/images/KN/KN1.png" alt="Benard-marangoni-cell-1" style="width:200px;height:200px;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="{{ base_path }}/images/KN/KN2.png" alt="Benard-marangoni-cell-2" style="width:200px;height:200px;">
+<!-- <img src="{{ base_path }}/images/KN/KN1.png" alt="Benard-marangoni-cell-1" style="width:200px;height:200px;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
+<!-- <img src="{{ base_path }}/images/KN/KN2.png" alt="Benard-marangoni-cell-2" style="width:200px;height:200px;"> -->
+<img src="{{ base_path }}/images/KN/full.png" alt="KN-full" style="width:40%;height:auto;">
 <br><br>
 
 
@@ -49,7 +50,7 @@ The Cahn–Hilliard equation was proposed to model the process of phase separati
 <!-- <img src="{{ base_path }}/images/CH/CH3.png" alt="cahn-hilliard-3" style="width:auto;height:250px;">;&nbsp;&nbsp; -->
 <!-- <img src="{{ base_path }}/images/CH/CH4.png" alt="cahn-hilliard-4" style="width:auto;height:250px;"> -->
 
-<img src="{{ base_path }}/images/CH/full.png" alt="CH-full" style="width:100%;height:auto;">
+<img src="{{ base_path }}/images/CH/full.png" alt="CH-full" style="width:80%;height:auto;">
 
 
 
