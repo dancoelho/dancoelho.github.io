@@ -23,7 +23,8 @@ Further information about this list of publications can be found in [Google Scho
 Submitted to Physical Review E
 
 2. _**Numerical scheme for solving the nonuniformly forced cubic and quintic Swift-Hohenberg equations strictly respecting the Lyapunov functional**_, D.L. Coelho, E. Vitral, J. Pontes, and N. Mangiavacchi<br>
-Submitted to Journal of Computational and Applied Mathematics
+Submitted to Journal of Computational and Applied Mathematics<br>
+[[arXiv]](https://arxiv.org/abs/2007.16080)
 
 ## Conference Proceedings Articles
 
