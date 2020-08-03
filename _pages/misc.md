@@ -16,9 +16,9 @@ Abraão Sousa/Daniel Coelho - bass guitar<br><br>
 
 <center>
 <img src="{{ base_path }}/images/zoe1.jpg" alt="zoe1" style="width:20%;height:auto;">
-&nbsp; &nbsp;
+&nbsp; &nbsp; &nbsp;
 <img src="{{ base_path }}/images/zoe3.jpg" alt="zoe2" style="width:20%;height:auto;">
-&nbsp; &nbsp;
+&nbsp; &nbsp; &nbsp;
 <img src="{{ base_path }}/images/zoe2.jpg" alt="zoe3" style="width:20%;height:auto;">
 
 <br><br>
