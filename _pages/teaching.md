@@ -1,6 +1,6 @@
 ---
-layout: archive
-title: ""
+<!-- layout: archive -->
+title: "Undergraduate courses (Cursos de Graduação na UERJ)"
 permalink: /teaching/
 author_profile: true
 redirect_from:
@@ -15,8 +15,7 @@ redirect_from:
 
 <!-- {% include base_path %} -->
 
-FEN03-05100: Tópicos Especiais em Engenharia Mecânica I (2020.1)
-======
+## FEN03-05100: Tópicos Especiais em Engenharia Mecânica I (2020.1)
 
 As principais informações acerca da disciplina estão na seguinte 
 <a href="{{ base_path }}/files/Proposta_disciplina_eletiva_MECAN.pdf" target="_blank">ementa</a>.

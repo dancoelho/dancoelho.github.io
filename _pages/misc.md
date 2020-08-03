@@ -5,6 +5,30 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+
+## Zoe Trio
+
+Brazilian power trio that mixes the rock'n'roll energy to a jazz approach to improvisation.
+
+Paulo Grua - eletric guitar<br>
+Diego Marins/Rodrigo Pereira - drums<br>
+Abraão Sousa/Daniel Coelho - bass guitar<br><br>
+
+<center>
+<img src="{{ base_path }}/images/zoe1.jpg" alt="zoe1" style="width:20%;height:auto;">
+&nbsp; &nbsp;
+<img src="{{ base_path }}/images/zoe3.jpg" alt="zoe2" style="width:20%;height:auto;">
+&nbsp; &nbsp;
+<img src="{{ base_path }}/images/zoe2.jpg" alt="zoe3" style="width:20%;height:auto;">
+
+<br><br>
+
+<a href="https://open.spotify.com/artist/6K1WI2mNN5n7u7qSsgf0fL" target="_blank"><img src="{{ base_path }}/images/spotify-icon-bw.jpg" alt="sf-icon" style="width:32px;height:32px;"></a>&nbsp;
+<a href="https://www.instagram.com/zoetrio/" target="_blank"><img src="{{ base_path }}/images/instagram-icon-bw.png" alt="sf-icon" style="width:32px;height:32px;"></a>&nbsp;
+<a href="https://www.facebook.com/ZoeTrioMusica/" target="_blank"><img src="{{ base_path }}/images/facebook-icon-bw.jpg" alt="fb-icon" style="width:32px;height:32px;"></a>&nbsp;
+<a href="https://zoetrio.bandcamp.com" target="_blank"><img src="{{ base_path }}/images/bandcamp-icon-bw.jpg" alt="bc-icon" style="width:32px;height:32px;"></a>
+</center>
+
 <!-- 
 ## Locations of key files/directories
 

@@ -8,7 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Currently a Master’s Degree student at Rio de Janeiro State University (UERJ). Mainly interested in research regarding computational materials science (theory and simulation), with emphasis on Pattern Formation, Defects and Microstructures in Nonequilibrium Systems; involving numerical and nonlinear methods (linear stability analysis, weakly nonlinear analysis, etc). Other interests are Metallurgy, Solid State Physics, Nanotechnology and Computational Engineering.
+I am a MSc candidate at Mechanical Engineering Graduate Program (PPG-EM) of the Rio de Janeiro State University (UERJ) in Brazil. 
+
+
+Mainly interested in research regarding computational materials science (theory and simulation), with emphasis on Pattern Formation, Defects and Microstructures in Nonequilibrium Systems; involving numerical and nonlinear methods (linear stability analysis, weakly nonlinear analysis, etc). Other interests are Metallurgy, Solid State Physics, Nanotechnology and Computational Engineering.
 
 
 My research interests lie in mechanics of materials and soft matter, including:
