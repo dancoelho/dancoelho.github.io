@@ -25,8 +25,9 @@ Abraão Sousa/Daniel Coelho - bass guitar<br><br>
 
 <a href="https://open.spotify.com/artist/6K1WI2mNN5n7u7qSsgf0fL" target="_blank"><img src="{{ base_path }}/images/spotify-icon-bw.jpg" alt="sf-icon" style="width:32px;height:32px;"></a>&nbsp;
 <a href="https://www.instagram.com/zoetrio/" target="_blank"><img src="{{ base_path }}/images/instagram-icon-bw.png" alt="sf-icon" style="width:32px;height:32px;"></a>&nbsp;
-<a href="https://www.facebook.com/ZoeTrioMusica/" target="_blank"><img src="{{ base_path }}/images/facebook-icon-bw.jpg" alt="fb-icon" style="width:32px;height:32px;"></a>&nbsp;
-<a href="https://zoetrio.bandcamp.com" target="_blank"><img src="{{ base_path }}/images/bandcamp-icon-bw.jpg" alt="bc-icon" style="width:32px;height:32px;"></a>
+<a href="https://www.facebook.com/ZoeTrioMusica/" target="_blank"><img src="{{ base_path }}/images/facebook-icon-bw.jpg" alt="fb-icon" style="width:32px;height:32px;"></a>
+<br>
+<a href="https://zoetrio.bandcamp.com" target="_blank"><img src="{{ base_path }}/images/bandcamp-icon-bw.jpg" alt="bc-icon" style="width:100px;height:100px;"></a>
 </center>
 
 <!-- 

@@ -8,11 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a MSc candidate at Mechanical Engineering Graduate Program (PPG-EM) of the Rio de Janeiro State University (UERJ) in Brazil. 
+I am a MSc candidate in the Mechanical Engineering Graduate Program ([PPG-EM](http://www.ppgem.uerj.br/en/index.html)) of the Rio de Janeiro State University ([UERJ](https://www.uerj.br)), supervised by Profs. [José Pontes](http://www.gesar.uerj.br/en/staff/professor-jose-pontes.html) and [Norberto Mangiavacchi](http://www.gesar.uerj.br/en/staff/professor-norberto-mangiavacchi.html). We work on developing computational modeling of pattern formation in some physical systems.
 
-
-Mainly interested in research regarding computational materials science (theory and simulation), with emphasis on Pattern Formation, Defects and Microstructures in Nonequilibrium Systems; involving numerical and nonlinear methods (linear stability analysis, weakly nonlinear analysis, etc). Other interests are Metallurgy, Solid State Physics, Nanotechnology and Computational Engineering.
-
+<!-- M research on computational materials science (theory and simulation), with emphasis on Pattern Formation, Defects and Microstructures in Nonequilibrium Systems; involving numerical and nonlinear methods (linear stability analysis, weakly nonlinear analysis, etc). Other interests are Metallurgy, Solid State Physics, Nanotechnology and Computational Engineering. -->
 
 My research interests lie in mechanics of materials and soft matter, including:
 
