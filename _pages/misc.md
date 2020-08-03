@@ -30,6 +30,34 @@ Abraão Sousa/Daniel Coelho - bass guitar<br><br>
 <a href="https://zoetrio.bandcamp.com" target="_blank"><img src="{{ base_path }}/images/bandcamp-icon-bw.jpg" alt="bc-icon" style="width:100px;height:100px;"></a>
 </center>
 
+
+<!-- <iframe width="1140" height="360" src="https://www.youtube.com/watch?v=Vkas6HrsDF0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+
+
+<!-- ![](https://www.youtube.com/watch?v=PJZ4nUkezHQ) -->
+
+
+<!-- <video width="320" height="240" controls>
+  <source src="{{base_path}}/images/videos/ramped_1.mp4" type="video/mp4">
+</video> -->
+
+<!-- <video controls="controls">
+  <source type="video/mp4" src="{{base_path}}/images/videos/ramped_1.mp4"></source>
+  <p>Your browser does not support the video element.</p>
+</video> -->
+
+<!-- <embed src="{{ base_path }}/images/videos/ramped_1.mp4" autostart="false" height="30" width="144" /> -->
+
+<!-- <video width="320" height="240" controls>
+  <source src="{{ base_path }}/images/videos/ramped_1.mp4" type="video/mp4">
+Seu navegador n~~ao suporta tags de vídeo.
+</video>
+ -->
+
+<!-- <video width="400" controls Autoplay=autoplay>
+  <source src="{{ base_path }}/images/videos/ramped_1.mp4" type="video/mp4">
+</video> -->
+
 <!-- 
 ## Locations of key files/directories
 

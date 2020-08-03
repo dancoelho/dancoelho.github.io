@@ -137,22 +137,26 @@ Bénard-Marangoni convection exhibits square, hexagonal, and other peculiar patt
 <!-- <img src="{{ base_path }}/images/KN/KN1.png" alt="Benard-marangoni-cell-1" style="width:200px;height:200px;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
 <!-- <img src="{{ base_path }}/images/KN/KN2.png" alt="Benard-marangoni-cell-2" style="width:200px;height:200px;"> -->
 <!-- Trigger the Modal -->
-<img id="myImg" src="{{ base_path }}/images/KN/full.png" alt="Snow" style="width:100%;height:auto">
+
+ <img src="{{ base_path }}/images/KN/full.png" alt="KN-full" style="width:50%;height:auto;">
+<br><br>
+
+<!-- <img id="myImg" src="{{ base_path }}/images/KN/full.png" alt="Snow" style="width:100%;height:auto"> -->
 
 <!-- The Modal -->
-<div id="myModal" class="modal">
+<!-- <div id="myModal" class="modal"> -->
 
   <!-- The Close Button -->
-<span class="close"> &times; </span>
+<!-- <span class="close"> &times; </span> -->
 
   <!-- Modal Content (The Image) -->
-  <img class="modal-content" id="img01">
+  <!-- <img class="modal-content" id="img01"> -->
 
   <!-- Modal Caption (Image Text) -->
-  <div id="caption"></div>
-</div>
+  <!-- <div id="caption"></div> -->
+<!-- </div> -->
 
-<script>
+<!-- <script>
 // Get the modal
 var modal = document.getElementById("myModal");
 
@@ -173,10 +177,8 @@ var span = document.getElementsByClassName("close")[0];
 span.onclick = function() { 
   modal.style.display = "none";
 }
-</script>
-<!-- <img src="{{ base_path }}/images/KN/full.png" alt="KN-full" style="width:50%;height:auto;">-->
-<!-- <br><br> -->
-<br>
+</script> -->
+
 
 
 ## [Coarsening Dynamics in the Cahn-Hilliard Equation](../_pages/404.md)
