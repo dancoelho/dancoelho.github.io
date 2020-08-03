@@ -10,7 +10,7 @@ redirect_from:
 
 Brazilian power trio that mixes the rock'n'roll energy to a jazz approach to improvisation.
 
-Paulo Grua - eletric guitar<br>
+Paulo Grua - electric guitar<br>
 Diego Marins/Rodrigo Pereira - drums<br>
 Abraão Sousa/Daniel Coelho - bass guitar<br><br>
 
