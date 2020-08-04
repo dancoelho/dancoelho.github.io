@@ -9,8 +9,9 @@ permalink: /knobloch/
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 <br><br>
-
+<div style="text-align: justify">
 Numerical results obtained for the equation derived by E. Knobloch used to study long wavelength pattern formation in the Bénard-Marangoni convection:
+</div>
 
 \[
 	\dfrac{\partial u}{\partial t}=\alpha u-\mu \nabla^2u-\nabla^4u+
@@ -18,32 +19,33 @@ Numerical results obtained for the equation derived by E. Knobloch used to study
 	\beta\nabla\cdot \left(\nabla^2 u \nabla u \right) - \gamma\nabla\cdot u \nabla u +
 	\delta \nabla^2|\nabla u|^2 \nonumber
 \]
-
+<div style="text-align: justify">
 Generalized Dirichlet boundary conditions (\(u={\partial u}/{\partial n}=0\)) were assumed for the numerical integration of the governing equation. The numerical scheme consisted of the classical operator splitting scheme of <i>stabilizing correction</i>, presenting fourth-order diffusion operators. The \(L_1\) norm was used to measure the rate of change of the distance between to successive states of the system, therefore, it is sensitive to the evolution of both the amplitude and the phase. Steady states assumed for \(L_1 \leq 1 \times 10^{-6}\).
+</div>
 <br>
 
 <figure>
 	<center>
 		<img src="{{ base_path }}/images/KN/KN1-evo.png" style="width:80%;height:auto;">
-	</center>
-		<figcaption >
+		<figcaption style="text-align: justify;width:80%">
 			FIG. \(1\):
 			Pattern evolution and its \(L_1\) norm. The simulation departed from random initial conditions around the solution \(u=0\). It is expected that the structure evolves into a stationary single-cell state, filling the whole bounding box.
 		</figcaption>
+	</center>
 </figure>
 
 <figure>
 	<center>
 		<img src="{{ base_path }}/images/KN/KN2-evo.png" style="width:80%;height:auto;">
-	</center>
-		<figcaption >
+		<figcaption style="text-align: justify;width:80%">
 			FIG. \(2\):
 			Pattern evolution and its \(L_1\) norm. The simulation departed from random initial conditions around the solution \(u=0\). It is expected that the structure evolves into a stationary square pattern for this range of parameters.
 		</figcaption>
+	</center>
 </figure>
-
+<div style="text-align: justify">
 FIG. 1 shows results obtained for: \(\alpha=0.0\), \(\mu=2.0\), \(k=1\), \(\beta=-0.125\sqrt{7}\), \(\gamma=0.0\) and \(\delta=0.75\sqrt{7}\). FIG. 2 shows results obtained for: \(\alpha=-0.8\), \(\mu=2.7\), \(k=1\), \(\beta=-0.125\sqrt{7}\), \(\gamma=0.0\) and \(\delta=-0.75\sqrt{7}\). The grid is uniform, structured and staggered with a resolution of \(8\) points per wavelength. This corresponds to a square domain of \(10 \times 10\) wavelengths per side length.
-
+</div>
 <br><br><br>
 
 <h2>References</h2>
