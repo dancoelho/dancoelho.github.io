@@ -110,7 +110,9 @@ Gradients of the bifurcation parameter can induce stripe orientation in the Swif
 
 ## [Nonuniform forcing and stripe orientation in Swift-Hohenberg](../_pages/404.md)
 
+{: style="text-align: justify" }
 Gradients of the bifurcation parameter can induce stripe orientation in the Swift-Hohenberg dynamics. However, they face competition from boundary, bulk and geometric effects, and pattern alignment becomes an intricate question.
+
 
 <img src="{{ base_path }}/images/SH/SH23nonuniform.png" alt="SH23" style="width:50%;height:auto;">
 <br><br>
@@ -118,8 +120,9 @@ Gradients of the bifurcation parameter can induce stripe orientation in the Swif
 
 ## [Ramped Rayleigh-Bénard systems in circular geometries](../_pages/404.md)
 
-
+{: style="text-align: justify" }
 Several numerical works consider regular geometries when studying temperature gradients across a Rayleigh-Bénard convection cell. A numerical approach based on a finite-difference scheme is proposed for studying such system in a circular geometry maintaining second-order accuracy at the boundary conditions.
+
 
 <!-- <img src="{{ base_path }}/images/RB/fig_0.png" alt="RB-cell-1" style="width:200px;height:200px;"> &nbsp;&nbsp;
 <img src="{{ base_path }}/images/RB/fig_10.png" alt="RB-cell-2" style="width:200px;height:200px;"> &nbsp;&nbsp;
@@ -131,8 +134,9 @@ Several numerical works consider regular geometries when studying temperature gr
 
 ## [Pattern formation in the Bénard-Marangoni convection](../_pages/knobloch.html)
 
-
+{: style="text-align: justify" }
 Bénard-Marangoni convection exhibits square, hexagonal, and other peculiar patterns that can be modeled by the Knobloch equation. This fourth-order nonlinear evolution equation is derived _via_ multiple scales formalism and reproduces the main features of the full dynamics.
+
 
 <!-- <img src="{{ base_path }}/images/KN/KN1.png" alt="Benard-marangoni-cell-1" style="width:200px;height:200px;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
 <!-- <img src="{{ base_path }}/images/KN/KN2.png" alt="Benard-marangoni-cell-2" style="width:200px;height:200px;"> -->
@@ -183,8 +187,10 @@ span.onclick = function() {
 
 ## [Coarsening Dynamics in the Cahn-Hilliard Equation](../_pages/404.md)
 
-
+{: style="text-align: justify" }
 The Cahn–Hilliard equation was proposed to model the process of phase separation in binary alloys. This equation has been extended to a variety of chemical, physical, biological, and other engineering fields such as spinodal decomposition, diblock copolymer, image inpainting, multiphase fluid flows, microstructures with elastic inhomogeneity, tumor growth simulation, and topology optimization. A common feature among those physical systems is the coarsening dynamics.
+
+
 <!-- 
 <img src="{{ base_path }}/images/CH/CH1.png" alt="cahn-hilliard-1" style="width:auto;height:250px;"> &nbsp;&nbsp; -->
 <!-- <img src="{{ base_path }}/images/CH/CH2.png" alt="cahn-hilliard-2" style="width:auto;height:250px;">;&nbsp;&nbsp; -->
