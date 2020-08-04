@@ -5,6 +5,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
+
 exclude: [node_modules]  # for faster compiling 
 minify_html: false
 
@@ -263,6 +264,7 @@ timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database
 
 # Plugins
 plugins:
+  - jekyll-include-cache
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist

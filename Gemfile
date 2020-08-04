@@ -3,6 +3,7 @@ source "https://rubygems.org"
 # ruby "2.6.3"
 
 gem "jekyll"#, "~> 3.8.7"
+
 # Hello! This is where you manage which Jekyll version is used to run.
 # When you want to use a different version, change it below, save the
 # file and run `bundle install`. Run Jekyll with `bundle exec`, like so:
@@ -13,6 +14,8 @@ gem "jekyll"#, "~> 3.8.7"
 # Happy Jekylling!
 
 gem "github-pages", group: :jekyll_plugins
+
+gem 'jekyll-include-cache'
 
 # If you want to use Jekyll native, uncomment the line below.
 # To upgrade, run `bundle update`.

@@ -18,8 +18,6 @@ Abraão Sousa/Daniel Coelho - bass guitar<br><br>
 <br> -->
 
 <center>
-<iframe style="border: 0; width:350px; height:250px;" src="https://bandcamp.com/EmbeddedPlayer/album=2460220059/size=large/bgcol=ffffff/linkcol=0687f5/artwork=none/track=179282201/transparent=true/" seamless><a href="http://zoetrio.bandcamp.com/album/zoe">Zoe by Zoe</a></iframe>
-<br><br>
 
 <img src="{{ base_path }}/images/zoe1.jpg" alt="zoe1" style="width:20%;height:auto;">
 &nbsp; &nbsp; &nbsp;
@@ -27,6 +25,8 @@ Abraão Sousa/Daniel Coelho - bass guitar<br><br>
 &nbsp; &nbsp; &nbsp;
 <img src="{{ base_path }}/images/zoe2.jpg" alt="zoe3" style="width:20%;height:auto;">
 
+<br><br>
+<iframe style="border: 0; width:350px; height:250px;" src="https://bandcamp.com/EmbeddedPlayer/album=2460220059/size=large/bgcol=ffffff/linkcol=0687f5/artwork=none/track=179282201/transparent=true/" seamless><a href="http://zoetrio.bandcamp.com/album/zoe">Zoe by Zoe</a></iframe>
 <br><br>
 
 <a href="https://open.spotify.com/artist/6K1WI2mNN5n7u7qSsgf0fL" target="_blank"><img src="{{ base_path }}/images/spotify-icon-bw.jpg" alt="sf-icon" style="width:32px;height:32px;"></a>&nbsp;
