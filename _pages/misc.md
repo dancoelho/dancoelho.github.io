@@ -12,10 +12,10 @@ Brazilian power trio that mixes the rock'n'roll energy to a jazz approach to imp
 
 Paulo Grua - electric guitar<br>
 Diego Marins/Rodrigo Pereira - drums<br>
-Abraão Sousa/Daniel Coelho - bass guitar<br>
+Abraão Sousa/Daniel Coelho - bass guitar<br><br>
 
-P.S. Bandcamp player has a lil' delay at music start ;)
-<br>
+<!-- P.S. Bandcamp player has a lil' delay at music start ;)
+<br> -->
 
 <center>
 <iframe style="border: 0; width:350px; height:250px;" src="https://bandcamp.com/EmbeddedPlayer/album=2460220059/size=large/bgcol=ffffff/linkcol=0687f5/artwork=none/track=179282201/transparent=true/" seamless><a href="http://zoetrio.bandcamp.com/album/zoe">Zoe by Zoe</a></iframe>
