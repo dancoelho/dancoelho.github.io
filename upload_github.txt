@@ -1,0 +1,26 @@
+#0 Inicializar
+git init
+git remote add origin https://url
+
+#1 Criar branch
+git checkout -b branch_name
+
+#2 Trabalhar na branch 
+
+## while not work_is_done:
+##     # do stuff
+
+#3 Commits
+git add .
+git commit -m "commit message, this is not the commit name"
+git push origin branch_name
+
+## repeat while you work on stuff
+## voltar para o passo 2 enquanto houver coisas para fazer
+
+#4 Merge
+git checkout master
+git merge branch_name
+
+#5 Feature done!
+# Voltar para passo 1
