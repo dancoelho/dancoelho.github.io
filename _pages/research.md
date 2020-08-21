@@ -108,20 +108,20 @@ Gradients of the bifurcation parameter can induce stripe orientation in the Swif
 <br><br> -->
 
 
-## [Nonuniform forcing and stripe orientation in Swift-Hohenberg](../_pages/404.md)
+## Nonuniform forcing and stripe orientation in Swift-Hohenberg
 
 {: style="text-align: justify" }
-Gradients of the bifurcation parameter can induce stripe orientation in the Swift-Hohenberg dynamics. However, they face competition from boundary, bulk and geometric effects, and pattern alignment becomes an intricate question.
+Gradients of the bifurcation parameter can induce stripe orientation in the Swift-Hohenberg dynamics. However, they face competition from boundary, bulk and geometric effects, and pattern alignment becomes an intricate question. [[more]](../_pages/404.md)
 
 
 <img src="{{ base_path }}/images/SH/SH23nonuniform.png" alt="SH23" style="width:50%;height:auto;">
 <br><br>
 
 
-## [Ramped Rayleigh-Bénard systems in circular geometries](../_pages/404.md)
+## Ramped Rayleigh-Bénard systems in circular geometries
 
 {: style="text-align: justify" }
-Several numerical works consider regular geometries when studying temperature gradients across a Rayleigh-Bénard convection cell. A numerical approach based on a finite-difference scheme is proposed for studying such system in a circular geometry maintaining second-order accuracy at the boundary conditions.
+Several numerical works consider regular geometries when studying temperature gradients across a Rayleigh-Bénard convection cell. A numerical approach based on a finite-difference scheme is proposed for studying such system in a circular geometry maintaining second-order accuracy at the boundary conditions. [[more]](../_pages/404.md)
 
 
 <!-- <img src="{{ base_path }}/images/RB/fig_0.png" alt="RB-cell-1" style="width:200px;height:200px;"> &nbsp;&nbsp;
@@ -132,10 +132,10 @@ Several numerical works consider regular geometries when studying temperature gr
 <br><br>
 
 
-## [Pattern formation in the Bénard-Marangoni convection](../_pages/knobloch.html)
+## Pattern formation in the Bénard-Marangoni convection
 
 {: style="text-align: justify" }
-Bénard-Marangoni convection exhibits square, hexagonal, and other peculiar patterns that can be modeled by the Knobloch equation. This fourth-order nonlinear evolution equation is derived _via_ multiple scales formalism and reproduces the main features of the full dynamics.
+Bénard-Marangoni convection exhibits square, hexagonal, and other peculiar patterns that can be modeled by the Knobloch equation. This fourth-order nonlinear evolution equation is derived _via_ multiple scales formalism and reproduces the main features of the full dynamics. [[more]](../_pages/knobloch.html)
 
 
 <!-- <img src="{{ base_path }}/images/KN/KN1.png" alt="Benard-marangoni-cell-1" style="width:200px;height:200px;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
@@ -185,10 +185,10 @@ span.onclick = function() {
 
 
 
-## [Coarsening Dynamics in the Cahn-Hilliard Equation](../_pages/404.md)
+## Coarsening Dynamics in the Cahn-Hilliard Equation
 
 {: style="text-align: justify" }
-The Cahn–Hilliard equation was proposed to model the process of phase separation in binary alloys. This equation has been extended to a variety of chemical, physical, biological, and other engineering fields such as spinodal decomposition, diblock copolymer, image inpainting, multiphase fluid flows, microstructures with elastic inhomogeneity, tumor growth simulation, and topology optimization. A common feature among those physical systems is the coarsening dynamics.
+The Cahn–Hilliard equation was proposed to model the process of phase separation in binary alloys. This equation has been extended to a variety of chemical, physical, biological, and other engineering fields such as spinodal decomposition, diblock copolymer, image inpainting, multiphase fluid flows, microstructures with elastic inhomogeneity, tumor growth simulation, and topology optimization. A common feature among those physical systems is the coarsening dynamics. [[more]](../_pages/404.md)
 
 
 <!-- 

@@ -13,7 +13,7 @@ git checkout -b branch_name
 #3 Commits
 git add .
 git commit -m "commit message, this is not the commit name"
-git push origin branch_name
+git push origin master %branch_name
 
 ## repeat while you work on stuff
 ## voltar para o passo 2 enquanto houver coisas para fazer
