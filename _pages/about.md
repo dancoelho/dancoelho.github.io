@@ -14,7 +14,7 @@ I am a MSc candidate in the Mechanical Engineering Graduate Program ([PPG-EM](ht
 
 <!-- M research on computational materials science (theory and simulation), with emphasis on Pattern Formation, Defects and Microstructures in Nonequilibrium Systems; involving numerical and nonlinear methods (linear stability analysis, weakly nonlinear analysis, etc). Other interests are Metallurgy, Solid State Physics, Nanotechnology and Computational Engineering. -->
 
-Currently I belong to [GESAR](http://www.gesar.uerj.br/) research group and my research interests lie in:
+Currently I belong to [GESAR](http://www.gesar.uerj.br/) research group and my **research interests** lie in:
 
 * Mathematical modeling of complex systems, including pattern formation
 * Nonequilibrium thermodynamics
