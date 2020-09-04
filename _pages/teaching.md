@@ -24,7 +24,7 @@ As principais informações acerca da disciplina estão na seguinte
 
 |PDF|YouTube|Disponível|Conteúdo|
 |------|------|-----------|---------|
-| <a href="{{ base_path }}/files/Aula01.pdf" target="_blank">Aula</a> | -          | 09/03/2020 | Apresentação da disciplina, avaliação e materiais adotados (D. Coelho e L. Carnevale)|
+| <a href="{{ base_path }}/files/Aula01.pdf" target="_blank">Aula00</a> | -          | 09/03/2020 | Apresentação da disciplina, avaliação e materiais adotados (D. Coelho e L. Carnevale)|
 | <a href="{{ base_path }}/files/Aula02.pdf" target="_blank">Aula01</a> | -          | 01/07/2020 | Introdução ao método de diferenças finitas (D. Coelho)|
 | Aula02 | -          | -          | Método de diferenças finitas (D. Coelho)|
 | Aula03 | -          | -          | |
