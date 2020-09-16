@@ -26,14 +26,14 @@ Contatos: danielcoelho.uerj@gmail.com, lh.carnevale@gmail.com e pontes.jose@gmai
 
 |PDF|YouTube|Disponível|Conteúdo|
 |------|------|-----------|---------|
-| <a href="{{ base_path }}/files/Aula01.pdf" target="_blank">Aula_00</a> | -          | 15/09/2020 | Apresentação da disciplina, avaliação e materiais adotados (D. Coelho e L. Carnevale)|
+| <a href="{{ base_path }}/files/aula00DanielLC.pdf" target="_blank">Aula_00</a> |  <a href="{{ base_path }}/files/aula00DanielLC.pdf" target="_blank">vídeo</a>     | 15/09/2020 | Apresentação da disciplina, avaliação e materiais adotados (D. Coelho e L. Carnevale)|
 
 
 ### Parte I -- Método de Diferenças Finitas (D. L. Coelho)
 
 |PDF|YouTube|Disponível|Conteúdo|
 |------|------|-----------|---------|
-| <a href="{{ base_path }}/files/Aula02.pdf" target="_blank">Aula_01</a> | - | - | Introdução ao método de diferenças finitas|
+| <a href="{{ base_path }}/files/aula01DanielLC.pdf" target="_blank">Aula_01</a> | - | - | Introdução ao método de diferenças finitas|
 | - | -          | -          | Método de diferenças finitas|
 | - | -          | -          | |
 | - | -          | -          | |
