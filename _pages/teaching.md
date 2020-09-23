@@ -17,6 +17,8 @@ redirect_from:
 
 ## FEN03-05100: Tópicos Especiais em Engenharia Mecânica I (2020.1)
 
+A disciplina abordará conteúdos introdutórios relativos à Métodos Numéricos. A primeira parte do curso é sobre o Método de Diferenças Finitas e a segunda sobre o Método de Elementos Finitos. 
+
 As principais informações acerca da disciplina estão na seguinte 
 <a href="{{ base_path }}/files/Proposta_disciplina_eletiva_MECAN.pdf" target="_blank">ementa</a>. 
 Contatos: danielcoelho.uerj@gmail.com, lh.carnevale@gmail.com e pontes.jose@gmail.com.
@@ -26,7 +28,13 @@ Contatos: danielcoelho.uerj@gmail.com, lh.carnevale@gmail.com e pontes.jose@gmai
 
 |PDF|YouTube|Disponível|Conteúdo|
 |------|------|-----------|---------|
-| <a href="{{ base_path }}/files/aula00DanielLC.pdf" target="_blank">Aula_00</a> |  <a href="https://youtu.be/VtnqctMGg1A" target="_blank">vídeo</a>     | 15/09/2020 | Apresentação da disciplina, avaliação e materiais adotados (D. Coelho e L. Carnevale)|
+| <a href="{{ base_path }}/files/aula00DanielLC.pdf" target="_blank">Aula_00</a> |  <a href="https://youtu.be/VtnqctMGg1A" target="_blank">vídeo</a>     | 15/09/2020 | Apresentação da disciplina, avaliação e materiais adotados (D. L. Coelho e L. Carnevale)|
+
+### Aulas extras
+
+|PDF|YouTube|Disponível|Conteúdo|
+|------|------|-----------|---------|
+| - | <a href="https://youtu.be/yV3Xx0IhCEg" target="_blank">vídeo</a> | 23/09/2020 | Ambientes para Programação em Python 3 no Windows 10 (D. L. Coelho)|
 
 
 ### Parte I -- Método de Diferenças Finitas (D. L. Coelho)
