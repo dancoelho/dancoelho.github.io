@@ -18,10 +18,11 @@ Currently I belong to [GESAR](http://www.gesar.uerj.br/) research group and my *
 
 * Mathematical modeling of complex systems, including pattern formation
 * Nonequilibrium thermodynamics
-* Phase-field modeling
+* Phase Field Crystal (PFC) modeling
+* Solidification and solid-state transformations
 
 
-In January 2021 I'll join [Prof. Provatas group](http://www.physics.mcgill.ca/~provatas/.index.html).
+In January 2021, I'll be joining [Prof. Provatas group](http://www.physics.mcgill.ca/~provatas/.index.html).
 
 **Author name**: Daniel L. Coelho or D. L. Coelho
 
