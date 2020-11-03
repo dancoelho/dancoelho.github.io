@@ -26,25 +26,24 @@ Contatos: danielcoelho.uerj@gmail.com, lh.carnevale@gmail.com e pontes.jose@gmai
 
 ### Apresentação da disciplina
 
-|PDF|YouTube|Disponível|Conteúdo|
+|PDF|YouTube|Atualizado|Conteúdo|
 |------|------|-----------|---------|
 | <a href="{{ base_path }}/files/aula00DanielLC.pdf" target="_blank">Aula_00</a> |  <a href="https://youtu.be/VtnqctMGg1A" target="_blank">vídeo</a>     | 15/09/2020 | Apresentação da disciplina, avaliação e materiais adotados (D. L. Coelho e L. Carnevale)|
 
 ### Aulas extras
 
-|PDF|YouTube|Disponível|Conteúdo|
+|PDF|YouTube|Atualizado|Conteúdo|
 |------|------|-----------|---------|
-| - | <a href="https://youtu.be/yV3Xx0IhCEg" target="_blank">vídeo</a> | 23/09/2020 | Ambientes para Programação em Python 3 no Windows 10 (D. L. Coelho)|
+| - | <a href="https://youtu.be/yV3Xx0IhCEg" target="_blank">vídeo</a> | 03/11/2020 | Ambientes para Programação em Python 3 no Windows 10 (D. L. Coelho)|
 
 
 ### Parte I -- Método de Diferenças Finitas (D. L. Coelho)
 
-|PDF|YouTube|Disponível|Conteúdo|
+|PDF|YouTube|Atualizado|Conteúdo|
 |------|------|-----------|---------|
-| <a href="{{ base_path }}/files/aula01DanielLC.pdf" target="_blank">Aula_01</a> | - | - | Introdução ao método de diferenças finitas|
+| <a href="{{ base_path }}/files/aula01DanielLC.pdf" target="_blank">Aula_01</a> | - | 03/11/2020 | Introdução ao método de diferenças finitas|
 | - | -          | -          | Método de diferenças finitas|
-| - | -          | -          | |
-| - | -          | -          | |
+| - | -          | -          | Aplicações do Método de diferenças finitas|
 | - | -          | -          | |
 
 
