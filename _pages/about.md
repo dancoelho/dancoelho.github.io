@@ -22,7 +22,7 @@ Currently I belong to [GESAR](http://www.gesar.uerj.br/) research group and my *
 * Solidification and solid-state transformations
 
 
-In January 2021, I'll be joining [Prof. Provatas group](http://www.physics.mcgill.ca/~provatas/.index.html).
+In January 2021, I'll be joining [Prof. Provatas group](http://www.physics.mcgill.ca/~provatas/.index.html) from McGill University.
 
 **Author name**: Daniel L. Coelho or D. L. Coelho
 
