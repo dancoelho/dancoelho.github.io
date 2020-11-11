@@ -19,6 +19,8 @@ redirect_from:
 
 A disciplina abordará conteúdos introdutórios relativos à Métodos Numéricos. A primeira parte do curso é sobre o Método de Diferenças Finitas e a segunda sobre o Método de Elementos Finitos. 
 
+Uma parte do conteúdo está em vídeo e outra foi passada durante as aulas remotas (Google Meet). O material utilizado durante o curso e os códigos em *Python* (implementação dos métodos utilizados para os exercícios) também estão disponíveis para download.
+
 As principais informações acerca da disciplina estão na seguinte 
 <a href="{{ base_path }}/files/Proposta_disciplina_eletiva_MECAN.pdf" target="_blank">ementa</a>. 
 Contatos: danielcoelho.uerj@gmail.com, lh.carnevale@gmail.com e pontes.jose@gmail.com.
@@ -28,20 +30,21 @@ Contatos: danielcoelho.uerj@gmail.com, lh.carnevale@gmail.com e pontes.jose@gmai
 
 |PDF|YouTube|Atualizado|Conteúdo|
 |------|------|-----------|---------|
-| <a href="{{ base_path }}/files/aula00DanielLC.pdf" target="_blank">Aula_00</a> |  <a href="https://youtu.be/VtnqctMGg1A" target="_blank">vídeo</a>     | 15/09/2020 | Apresentação da disciplina, avaliação e materiais adotados (D. L. Coelho e L. Carnevale)|
+| <a href="{{ base_path }}/files/aula00DanielLC.pdf" download="aula00DanielLC.pdf" target="_blank">aula00 </a> |  <a href="https://youtu.be/VtnqctMGg1A" target="_blank">vídeo</a>     | 15/09/2020 | Apresentação da disciplina, avaliação e materiais adotados (D. L. Coelho e L. Carnevale)|
 
-### Aulas extras
+### Material extra
 
 |PDF|YouTube|Atualizado|Conteúdo|
 |------|------|-----------|---------|
 | - | <a href="https://youtu.be/yV3Xx0IhCEg" target="_blank">vídeo</a> | 03/11/2020 | Ambientes para Programação em Python 3 no Windows 10 (D. L. Coelho)|
+| <a href="http://devfuria.com.br/python/sintaxe-basica/" target="_blank">site</a> | <a href="https://www.youtube.com/watch?v=WqZP7atO3SE" target="_blank">vídeo</a> | 11/11/2020 | Um guia rápido e básico da linguagem Python (DevFuria)|
 
 
 ### Parte I -- Método de Diferenças Finitas (D. L. Coelho)
 
-|PDF|YouTube|Atualizado|Conteúdo|
+|PDF|Códigos|Atualizado|Conteúdo|
 |------|------|-----------|---------|
-| <a href="{{ base_path }}/files/aula01DanielLC.pdf" target="_blank">Aula_01</a> | - | 03/11/2020 | Introdução ao método de diferenças finitas|
+| <a href="{{ base_path }}/files/aula01DanielLC.pdf" download="aula01DanielLC.pdf" target="_blank">aula01</a> | <a href="{{ base_path }}/files/aula01-codigos.zip" download="aula01-codigos.zip" target="_blank">aula01-codigos</a> | 03/11/2020 | Introdução ao método de diferenças finitas|
 | - | -          | -          | Método de diferenças finitas|
 | - | -          | -          | Aplicações do Método de diferenças finitas|
 | - | -          | -          | |
