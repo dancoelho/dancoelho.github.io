@@ -8,25 +8,25 @@ redirect_from:
 
 ## Zoe Trio
 
-Brazilian power trio that mixes the rock'n'roll energy to a jazz approach to improvisation.
+Brazilian power trio that mixes the rock'n'roll energy to a jazz approach to improvisation. Diverse set of influences: Macaco Bong; Toe; Medeski, Martin & Wood; The Nels Cline Singers; Bill Frisell; John Scofield.
 
 Paulo Grua - electric guitar<br>
 Diego Marins/Rodrigo Pereira - drums<br>
-Abraão Sousa/Daniel Coelho - bass guitar<br><br>
+Abraão Sousa/Daniel Coelho - bass guitar<br>
 
 <!-- P.S. Bandcamp player has a lil' delay at music start ;)
 <br> -->
 
 <center>
 
-<img src="{{ base_path }}/images/zoe1.jpg" alt="zoe1" style="width:20%;height:auto;">
+<!-- <img src="{{ base_path }}/images/zoe1.jpg" alt="zoe1" style="width:20%;height:auto;">
 &nbsp; &nbsp; &nbsp;
 <img src="{{ base_path }}/images/zoe3.jpg" alt="zoe2" style="width:20%;height:auto;">
 &nbsp; &nbsp; &nbsp;
-<img src="{{ base_path }}/images/zoe2.jpg" alt="zoe3" style="width:20%;height:auto;">
+<img src="{{ base_path }}/images/zoe2.jpg" alt="zoe3" style="width:20%;height:auto;"> -->
 
 <br><br>
-<iframe style="border: 0; width:350px; height:250px;" src="https://bandcamp.com/EmbeddedPlayer/album=2460220059/size=large/bgcol=ffffff/linkcol=0687f5/artwork=none/track=179282201/transparent=true/" seamless><a href="http://zoetrio.bandcamp.com/album/zoe">Zoe by Zoe</a></iframe>
+<iframe style="border: 0; width: 350px; height: 350px;" src="https://bandcamp.com/EmbeddedPlayer/album=2460220059/size=large/bgcol=333333/linkcol=0f91ff/artwork=none/transparent=true/" seamless><a href="https://zoetrio.bandcamp.com/album/zoe">Zoe by Zoe</a></iframe>
 <br><br>
 
 <a href="https://open.spotify.com/artist/6K1WI2mNN5n7u7qSsgf0fL" target="_blank"><img src="{{ base_path }}/images/spotify-icon-bw.jpg" alt="sf-icon" style="width:32px;height:32px;"></a>&nbsp;
@@ -35,6 +35,36 @@ Abraão Sousa/Daniel Coelho - bass guitar<br><br>
 <br>
 <a href="https://zoetrio.bandcamp.com" target="_blank"><img src="{{ base_path }}/images/bandcamp-icon-bw.jpg" alt="bc-icon" style="width:100px;height:100px;"></a>
 </center>
+
+
+
+## Interlúdio
+
+Brazilian folk rock band that mixes narrative and confessional lyrics, always leading to a reflection on their stories. Diverse set of influences: Wilco; Ryan Adams; Neil Young; Johnny Cash; Dawes.
+
+Diego Marins - lead vocals, acoustic guitar<br>
+Paulo Grua - electric guitar<br>
+Helton Moura - electric guitar<br>
+Max Santos - drums<br>
+Daniel Coelho - bass guitar, backing vocals<br>
+
+<!-- P.S. Bandcamp player has a lil' delay at music start ;)
+<br> -->
+<center>
+<!-- <img src="{{ base_path }}/images/raiz.jpg" alt="zoe1" style="width:20%;height:auto;"> -->
+
+<br><br>
+<iframe style="border: 0; width: 350px; height: 350px;" src="https://bandcamp.com/EmbeddedPlayer/album=793948138/size=large/bgcol=333333/linkcol=0f91ff/artwork=none/transparent=true/" seamless><a href="https://interludio.bandcamp.com/album/raiz">Raiz by Interlúdio</a></iframe>
+<br><br>
+
+<a href="https://open.spotify.com/artist/5Lpgo9g6Hi3Ym9nM2Kt6v2" target="_blank"><img src="{{ base_path }}/images/spotify-icon-bw.jpg" alt="sf-icon" style="width:32px;height:32px;"></a>&nbsp;
+<a href="https://www.instagram.com/interludio_/" target="_blank"><img src="{{ base_path }}/images/instagram-icon-bw.png" alt="sf-icon" style="width:32px;height:32px;"></a>&nbsp;
+<a href="https://www.facebook.com/interludiando/" target="_blank"><img src="{{ base_path }}/images/facebook-icon-bw.jpg" alt="fb-icon" style="width:32px;height:32px;"></a>
+<br>
+<a href="https://interludio.bandcamp.com" target="_blank"><img src="{{ base_path }}/images/bandcamp-icon-bw.jpg" alt="bc-icon" style="width:100px;height:100px;"></a>
+</center>
+
+
 
 
 <!-- <iframe width="1140" height="360" src="https://www.youtube.com/watch?v=Vkas6HrsDF0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
