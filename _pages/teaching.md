@@ -45,7 +45,7 @@ Contatos: danielcoelho.uerj@gmail.com, lh.carnevale@gmail.com e pontes.jose@gmai
 |PDF|Códigos|Atualizado|Conteúdo|
 |------|------|-----------|---------|
 | <a href="{{ base_path }}/files/aula01DanielLC.pdf" download="aula01DanielLC.pdf" target="_blank">aula01</a> | <a href="{{ base_path }}/files/aula01-codigos.zip" download="aula01-codigos.zip" target="_blank">aula01-codigos</a> | 03/11/2020 | Introdução ao método de diferenças finitas|
-| - | -          | -          | Método de diferenças finitas|
+| <a href="{{ base_path }}/files/aula02DanielLC.pdf" download="aula02DanielLC.pdf" target="_blank">aula02</a> | <a href="{{ base_path }}/files/aula02-codigos.zip" download="aula02-codigos.zip" target="_blank">aula02-codigos</a> | 21/11/2020 | Método de diferenças finitas|
 | - | -          | -          | Aplicações do Método de diferenças finitas|
 | - | -          | -          | |
 
