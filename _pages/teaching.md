@@ -48,7 +48,7 @@ Contatos: danielcoelho.uerj@gmail.com, lh.carnevale@gmail.com e pontes.jose@gmai
 | <a href="{{ base_path }}/files/aula02DanielLC.pdf" download="aula02DanielLC.pdf" target="_blank">aula02</a> | <a href="{{ base_path }}/files/aula02-codigos.zip" download="aula02-codigos.zip" target="_blank">aula02-codigos</a> | 21/11/2020 | Método de diferenças finitas|
 | - | -          | -          | Aplicações do Método de diferenças finitas|
 | - | -          | -          | |
-
+| <a href="{{ base_path }}/files/P1.pdf" download="P1.pdf" target="_blank">P1</a> | <a href="{{ base_path }}/files/P1-gabarito.zip" download="gabarito.zip" target="_blank">P1-gabarito</a> | 24/11/2020 | Método de diferenças finitas|
 
 ### Parte II -- Método de Elementos Finitos (L. H. Carnevale)
 
