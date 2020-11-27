@@ -1,6 +1,6 @@
 ---
 <!-- layout: archive -->
-title: "Undergraduate courses (Cursos de Graduação na UERJ)"
+title: "Teaching"
 permalink: /teaching/
 author_profile: true
 redirect_from:
@@ -14,6 +14,14 @@ redirect_from:
 {% endfor %} -->
 
 <!-- {% include base_path %} -->
+
+## Downloads
+
+### MyPhysicsLab
+
+A very simple application for several physics simulations. You'll see them animating in real time, and be able to interact with them by dragging objects or changing parameters like gravity. It was developed by Erik Neumann and more information can be found on [his website](https://www.myphysicslab.com).
+
+Here is a compiled version of offline usage: <a href="{{ base_path }}/files/myPhysicsLab.jar" download="myPhysicsLab.jar" target="_blank">myPhysicsLab.jar</a>.
 
 ## FEN03-05100: Tópicos Especiais em Engenharia Mecânica I (2020.1)
 
