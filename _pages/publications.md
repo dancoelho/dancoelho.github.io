@@ -29,7 +29,7 @@ D. L. Coelho, E. Vitral, J. Pontes, and N. Mangiavacchi<br>
 Submitted to Journal of Computational and Applied Mathematics<br>
 <a href="https://arxiv.org/abs/2007.16080" target="_blank">[arXiv]</a>
 
-## Conference Proceedings Articles
+## Conference Proceedings
 
 1. _**Pattern formation survey on nonuniformly forced Swift-Hohenberg equation**_<br>
    D. L. Coelho, J. Pontes, and N. Mangiavacchi<br>

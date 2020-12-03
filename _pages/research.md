@@ -7,6 +7,7 @@ redirect_from:
   - /resume
 ---
 
+Brief descriptions for each of the few works I've developed so far.
 
 <style>
 /* Style the Image Used to Trigger the Modal */
