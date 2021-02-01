@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Short bio"
+title: "Bio"
 excerpt: "Home"
 author_profile: true
 redirect_from: 
@@ -9,22 +9,23 @@ redirect_from:
 ---
 
 {: style="text-align: justify" }
-I am a MSc candidate in the Mechanical Engineering Graduate Program ([PPG-EM](http://www.ppgem.uerj.br/en/index.html)) of the Rio de Janeiro State University ([UERJ](https://www.uerj.br)), supervised by Profs. [José Pontes](http://www.gesar.uerj.br/en/staff/professor-jose-pontes.html) and [Norberto Mangiavacchi](http://www.gesar.uerj.br/en/staff/professor-norberto-mangiavacchi.html). We work on developing computational modelling of pattern formation in dissipative structures, such as reaction-diffusion systems and Rayleigh-Bénard convection cells.
+
+I am a PhD student at McGill University, Department of Physics, working in Prof. [Nikolas Provatas group](http://www.physics.mcgill.ca/~provatas/.index.html).
+
+I obtained my MSc from the Mechanical Engineering Graduate Program ([PPG-EM](http://www.ppgem.uerj.br/en/index.html)) of the Rio de Janeiro State University ([UERJ](https://www.uerj.br)), supervised by Profs. [José Pontes](http://www.gesar.uerj.br/en/staff/professor-jose-pontes.html) and [Norberto Mangiavacchi](http://www.gesar.uerj.br/en/staff/professor-norberto-mangiavacchi.html). We worked on developing computational modelling of pattern formation in dissipative structures, such as reaction-diffusion systems and Rayleigh-Bénard convection cells. We numerically investigated how stripe orientation is induced by gradients of the bifurcation parameter in the Swift-Hohenberg dynamics, and compared to analytical predictions based on multiple scale analysis whenever possible.
 
 
 <!-- M research on computational materials science (theory and simulation), with emphasis on Pattern Formation, Defects and Microstructures in Nonequilibrium Systems; involving numerical and nonlinear methods (linear stability analysis, weakly nonlinear analysis, etc). Other interests are Metallurgy, Solid State Physics, Nanotechnology and Computational Engineering. -->
 
-Currently I belong to [GESAR](http://www.gesar.uerj.br/) research group and my **research interests** lie in:
+My **research interests** lie in computational materials science, including:
 
-* Mathematical modeling of complex systems, including pattern formation
+* Mathematical modeling of pattern formation in complex systems
 * Nonequilibrium thermodynamics
-* Phase Field Crystal (PFC) modeling
+* Phase Field Crystal (PFC) modelling
 * Solidification and solid-state transformations
 
 
-In January 2021, I'll be joining [Prof. Provatas group](http://www.physics.mcgill.ca/~provatas/.index.html) from McGill University.
-
-**Author name**: Daniel L. Coelho or D. L. Coelho
+For **author name**, I go by: Daniel L. Coelho or D. L. Coelho.
 
 <!-- This is the front PAGE of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
 

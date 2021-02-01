@@ -11,12 +11,15 @@ redirect_from:
 
 ## Education
 
+* Ph.D. in Physics<br>
+  Department of Physics, McGill University, Canada, 2021 - pres.<br>
+  Advisor: [Nikolas Provatas](https://www.chairs-chaires.gc.ca/chairholders-titulaires/profile-eng.aspx?profileId=2974)
 * M.S. in Mechanical Engineering<br>
-  PPGEM, Rio de Janeiro State University (UERJ), Brazil, 2020 (expected)<br>
+  PPGEM, Rio de Janeiro State University (UERJ), Brazil, 2019 - 2020<br>
   Advisors: [José Pontes](http://www.gesar.uerj.br/en/staff/professor-jose-pontes.html), 
   [Norberto Mangiavacchi](http://www.gesar.uerj.br/en/staff/professor-norberto-mangiavacchi.html)
 * B.S. in Mechanical Engineering<br>
-  MECAN, Rio de Janeiro State University (UERJ), Brazil, 2019<br>
+  MECAN, Rio de Janeiro State University (UERJ), Brazil, 2013 - 2018<br>
   Advisors: [José Pontes](http://www.gesar.uerj.br/en/staff/professor-jose-pontes.html)
 
 <!-- Honors & Awards
