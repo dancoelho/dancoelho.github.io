@@ -1,9 +1,7 @@
 ---
-<!-- layout: archive -->
+layout: archive
 title: "Teaching"
 permalink: /teaching/
-author_profile: true
-breadcrumbs: true
 redirect_from:
   - /resume
 ---

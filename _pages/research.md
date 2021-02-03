@@ -1,9 +1,8 @@
 ---
-<!-- layout: archive -->
+layout: archive
 title: "Research"
 permalink: /research/
 author_profile: true
-breadcrumbs: true
 redirect_from:
   - /resume
 ---

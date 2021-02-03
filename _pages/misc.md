@@ -1,8 +1,7 @@
 ---
 permalink: /misc/
+layout: archive
 title: "Miscellaneous"
-author_profile: true
-breadcrumbs: true
 redirect_from:
   - /resume
 ---

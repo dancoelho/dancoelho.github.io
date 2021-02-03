@@ -1,9 +1,8 @@
 ---
 permalink: /
+layout: archive
 title: "Bio"
 excerpt: "Home"
-author_profile: true
-breadcrumbs: true
 redirect_from: 
   - /about/
   - /about.html
