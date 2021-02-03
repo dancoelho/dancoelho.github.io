@@ -3,6 +3,7 @@
 title: "Downloads"
 permalink: /downloads/
 author_profile: true
+breadcrumbs: true
 redirect_from:
   - /resume
 ---

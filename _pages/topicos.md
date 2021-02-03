@@ -2,7 +2,8 @@
 layout: archive
 title: "FEN03-05100: Tópicos Especiais em Engenharia Mecânica I (2020.1)"
 permalink: /topicos/
-<!-- author_profile: true -->
+author_profile: true
+breadcrumbs: true
 <!-- redirect_from:
   - /resume -->
 ---

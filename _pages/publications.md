@@ -3,6 +3,7 @@
 title: "Publications"
 permalink: /publications/
 author_profile: true
+breadcrumbs: true
 ---
 <!-- 
 {% if author.googlescholar %}

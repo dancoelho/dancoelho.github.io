@@ -5,6 +5,9 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
+# theme                  : "minimal-mistakes-jekyll"
+# remote_theme           : "mmistakes/minimal-mistakes"
+minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 exclude: [node_modules]  # for faster compiling 
 minify_html: false
@@ -33,9 +36,10 @@ server                   : # https://meta.discourse.org/t/embedding-discourse-co
 facebook                 :
 appid                    :
 num_posts                : # 5 (default)
-theme                    : minimal-mistakes-jekyll
-minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
-colorscheme              : "dark" # "light" (default), "dark"
+# theme                    : minimal-mistakes-jekyll
+# minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+# colorscheme              : "dark" # "light" (default), "dark"
+# theme                    : "dark" # "github-light" (default), "github-dark"
 staticman                :
 allowedFields            : ['name', 'email', 'url', 'message']
 branch                   : "gh-pages" # "master", "gh-pages"
@@ -88,7 +92,7 @@ analytics:
 author:
   name             : "Daniel L. Coelho"
   avatar           : "profilepic.jpg"
-  bio              : "MSc candidate in Mechanical Engineering"
+  bio              : "PhD candidate in Physics"
   location         : "Rio de Janeiro RJ, Brazil"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
