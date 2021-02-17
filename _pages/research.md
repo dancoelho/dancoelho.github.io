@@ -201,6 +201,20 @@ The Cahn–Hilliard equation was proposed to model the process of phase separati
 
 
 
+## Nonlinear dynamical systems
+
+{: style="text-align: justify" }
+The Lorenz attractor. [[more]](../_pages/404.md)
+
+
+<!-- 
+<img src="{{ base_path }}/images/CH/CH1.png" alt="cahn-hilliard-1" style="width:auto;height:250px;"> &nbsp;&nbsp; -->
+<!-- <img src="{{ base_path }}/images/CH/CH2.png" alt="cahn-hilliard-2" style="width:auto;height:250px;">;&nbsp;&nbsp; -->
+<!-- <img src="{{ base_path }}/images/CH/CH3.png" alt="cahn-hilliard-3" style="width:auto;height:250px;">;&nbsp;&nbsp; -->
+<!-- <img src="{{ base_path }}/images/CH/CH4.png" alt="cahn-hilliard-4" style="width:auto;height:250px;"> -->
+
+<img src="{{ base_path }}/images/lorenz.gif" alt="Lorenz-full" style="width:50%;height:auto;">
+
 
 
 
