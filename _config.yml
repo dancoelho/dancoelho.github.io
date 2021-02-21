@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 
-exclude: [node_modules]  # for faster compiling 
+exclude: [node_modules]  # for faster compiling
 minify_html: false
 
 # Site Settings
