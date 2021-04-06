@@ -114,7 +114,7 @@ Gradients of the bifurcation parameter can induce stripe orientation in the Swif
 {: style="text-align: justify" }
 Gradients of the bifurcation parameter can induce stripe orientation in the Swift-Hohenberg dynamics. However, they face competition from boundary, bulk and geometric effects, and pattern alignment becomes an intricate question. [[more]](../_pages/404.md)
 
-<img src="{{ base_path }}/images/SH/SH23nonuniform.png" alt="SH23" style="width:50%;height:auto;">
+<img src="{{ base_path }}/images/SH/SH23nonuniform.png" alt="SH23" style="width:40%;height:auto;">
 <br><br>
 
 
@@ -128,7 +128,7 @@ Several numerical works consider regular geometries when studying temperature gr
 <img src="{{ base_path }}/images/RB/fig_10.png" alt="RB-cell-2" style="width:200px;height:200px;"> &nbsp;&nbsp;
 <img src="{{ base_path }}/images/RB/fig_100.png" alt="RB-cell-3" style="width:200px;height:200px;"> &nbsp;&nbsp;
 <img src="{{ base_path }}/images/RB/fig_750.png" alt="RB-cell-4" style="width:200px;height:200px;"> -->
-<img src="{{ base_path }}/images/RB/full.png" alt="RB-full" style="width:100%;height:auto;">
+<img src="{{ base_path }}/images/RB/full.png" alt="RB-full" style="width:80%;height:auto;">
 <br><br>
 
 
@@ -142,7 +142,30 @@ Bénard-Marangoni convection exhibits square, hexagonal, and other peculiar patt
 <!-- <img src="{{ base_path }}/images/KN/KN2.png" alt="Benard-marangoni-cell-2" style="width:200px;height:200px;"> -->
 <!-- Trigger the Modal -->
 
- <img src="{{ base_path }}/images/KN/full.png" alt="KN-full" style="width:50%;height:auto;">
+ <img src="{{ base_path }}/images/KN/full.png" alt="KN-full" style="width:40%;height:auto;">
+<br><br>
+
+## Electric induced lamellar alignment in block copolymers
+
+{: style="text-align: justify" }
+The molecular self-assembly of symmetric and assymetric
+BCPs thin films is examined by numerically solving the
+Otha-Kawasaki model. Numerical results indicate that the application of a electric
+field in the preferred direction can be employed to produce 
+ordered lamellar nanostructures in both symmetric and assymetric
+BCPs thin films. The process of lamellar pattern formation consists 
+of phase nucleation and phase coarsening, through the mechanisms of 
+dislocations climbing and molecular diffusion. It's also observed that 
+an external electric field has no noticeable 
+effect on the extent of phase separation, only in the orientatation
+of the structure. [[more]](../_pages/404.md)
+
+
+<!-- <img src="{{ base_path }}/images/KN/KN1.png" alt="Benard-marangoni-cell-1" style="width:200px;height:200px;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
+<!-- <img src="{{ base_path }}/images/KN/KN2.png" alt="Benard-marangoni-cell-2" style="width:200px;height:200px;"> -->
+<!-- Trigger the Modal -->
+
+ <img src="{{ base_path }}/images/EBCPs/BCPmorphologies.png" alt="EBCPs" style="width:50%;height:auto;">
 <br><br>
 
 <!-- <img id="myImg" src="{{ base_path }}/images/KN/full.png" alt="Snow" style="width:100%;height:auto"> -->
@@ -185,10 +208,10 @@ span.onclick = function() {
 
 
 
-## Coarsening Dynamics in the Cahn-Hilliard Equation
-
+<!-- ## Coarsening Dynamics in the Cahn-Hilliard Equation -->
+<!-- 
 {: style="text-align: justify" }
-The Cahn–Hilliard equation was proposed to model the process of phase separation in binary alloys. This equation has been extended to a variety of chemical, physical, biological, and other engineering fields such as spinodal decomposition, diblock copolymer, image inpainting, multiphase fluid flows, microstructures with elastic inhomogeneity, tumor growth simulation, and topology optimization. A common feature among those physical systems is the coarsening dynamics. [[more]](../_pages/404.md)
+The Cahn–Hilliard equation was proposed to model the process of phase separation in binary alloys. This equation has been extended to a variety of chemical, physical, biological, and other engineering fields such as spinodal decomposition, diblock copolymer, image inpainting, multiphase fluid flows, microstructures with elastic inhomogeneity, tumor growth simulation, and topology optimization. A common feature among those physical systems is the coarsening dynamics. [[more]](../_pages/404.md) -->
 
 
 <!-- 
@@ -197,14 +220,14 @@ The Cahn–Hilliard equation was proposed to model the process of phase separati
 <!-- <img src="{{ base_path }}/images/CH/CH3.png" alt="cahn-hilliard-3" style="width:auto;height:250px;">;&nbsp;&nbsp; -->
 <!-- <img src="{{ base_path }}/images/CH/CH4.png" alt="cahn-hilliard-4" style="width:auto;height:250px;"> -->
 
-<img src="{{ base_path }}/images/CH/full.png" alt="CH-full" style="width:100%;height:auto;">
+<!-- <img src="{{ base_path }}/images/CH/full.png" alt="CH-full" style="width:80%;height:auto;"> -->
 
 
-
+<!-- 
 ## Nonlinear dynamical systems
 
 {: style="text-align: justify" }
-The Lorenz attractor. [[more]](../_pages/404.md)
+The Lorenz attractor. [[more]](../_pages/404.md) -->
 
 
 <!-- 
@@ -213,7 +236,7 @@ The Lorenz attractor. [[more]](../_pages/404.md)
 <!-- <img src="{{ base_path }}/images/CH/CH3.png" alt="cahn-hilliard-3" style="width:auto;height:250px;">;&nbsp;&nbsp; -->
 <!-- <img src="{{ base_path }}/images/CH/CH4.png" alt="cahn-hilliard-4" style="width:auto;height:250px;"> -->
 
-<img src="{{ base_path }}/images/lorenz.gif" alt="Lorenz-full" style="width:50%;height:auto;">
+<!-- <img src="{{ base_path }}/images/lorenz.gif" alt="Lorenz-full" style="width:40%;height:auto;"> -->
 
 
 
