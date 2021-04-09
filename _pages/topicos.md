@@ -38,6 +38,6 @@ Contatos: danielcoelho.uerj@gmail.com, lh.carnevale@gmail.com e pontes.jose@gmai
 
 ### Parte II -- Método de Elementos Finitos (L. H. Carnevale)
 
-|PDF|YouTube|Disponível|Conteúdo|
-|------|------|-----------|---------|
-| - | -          | -          | Introdução ao método de elementos finitos|
+|PDF|Slides|Conteúdo|
+|------|------|---------|
+| <a href="{{ base_path }}/files/Notas_de_Aula.pdf" download="Notas_de_Aula.pdf" target="_blank">Notas_de_Aula</a> | <a href="{{ base_path }}/files/aulaLuis.pdf" download="aulaLuis.pdf" target="_blank">slides</a> | Método de elementos finitos|
