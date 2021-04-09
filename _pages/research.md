@@ -149,7 +149,7 @@ Bénard-Marangoni convection exhibits square, hexagonal, and other peculiar patt
 
 {: style="text-align: justify" }
 The molecular self-assembly of symmetric and assymetric
-BCPs thin films is examined by numerically solving the
+block copolymers (BCPs) thin films is examined by numerically solving the
 Otha-Kawasaki model. Numerical results indicate that the application of a electric
 field in the preferred direction can be employed to produce 
 ordered lamellar nanostructures in both symmetric and assymetric
