@@ -12,7 +12,7 @@ redirect_from:
 ## Education
 
 * Ph.D. in Physics<br>
-  Department of Physics, McGill University, Canada, 2021 - pres.<br>
+  Department of Physics, McGill University, Canada, 2021 - on going<br>
   Advisor: [Nikolas Provatas](https://www.chairs-chaires.gc.ca/chairholders-titulaires/profile-eng.aspx?profileId=2974)
 * M.S. in Mechanical Engineering<br>
   PPGEM, Rio de Janeiro State University (UERJ), Brazil, 2019 - 2020<br>

@@ -1,13 +1,23 @@
 ---
 layout: archive
-title: "Downloads"
+title: "Notes & Downloads"
 permalink: /downloads/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-Useful downloads for simulations and programming.
+Handy notes about physics, engineering, softwares, and numerical methods. Useful downloads for simulations and programming.
+
+## Finite Difference Method
+
+(Coming soon)
+
+
+## Gnuplot
+
+(Coming soon)
+
 
 ## MyPhysicsLab
 
