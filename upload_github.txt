@@ -24,8 +24,3 @@ git merge branch_name
 
 #5 Feature done!
 # Voltar para passo 1
-
-TOKEN: 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
-
-login: danielcoelho.uerj@gmail.com
-password: UERJfaperj1994
