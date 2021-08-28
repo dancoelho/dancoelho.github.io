@@ -19,12 +19,12 @@ Further information about this list of publications can be found in [Google Scho
 
 ## Journal Articles
 
-1. _**Stripe patterns orientation resulting from nonuniform forcings and other competitive effects in the Swift-Hohenberg dynamics**_<br>
+1. _**Stripe patterns orientation resulting from nonuniform forcings and other competitive effects in the Swift-Hohenberg dynamics**_,
 D. L. Coelho, E. Vitral, J. Pontes, and N. Mangiavacchi<br>
-Accepted for publication in Physica D<br>
+<a href="https://www.sciencedirect.com/science/article/pii/S0167278921001573" target="_blank">Physica D: Nonlinear Phenomena (2021)</a><br>
 <a href="https://arxiv.org/abs/2008.00319" target="_blank">[arXiv]</a>
 
-2. _**Numerical scheme for solving the nonuniformly forced cubic and quintic Swift-Hohenberg equations strictly respecting the Lyapunov functional**_<br>
+2. _**Numerical scheme for solving the nonuniformly forced cubic and quintic Swift-Hohenberg equations strictly respecting the Lyapunov functional**_,
 D. L. Coelho, E. Vitral, J. Pontes, and N. Mangiavacchi<br>
 Submitted to Journal of Computational and Applied Mathematics<br>
 <a href="https://arxiv.org/abs/2007.16080" target="_blank">[arXiv]</a>
