@@ -1,8 +1,10 @@
 source "https://rubygems.org"
 
-# ruby "2.6.3"
+ruby "3.0.0"
 
 gem "jekyll"#, "~> 3.8.7"
+
+gem 'eventmachine', :git => 'git://github.com/eventmachine/eventmachine.git', :branch => 'master'
 
 # Hello! This is where you manage which Jekyll version is used to run.
 # When you want to use a different version, change it below, save the
@@ -13,11 +15,13 @@ gem "jekyll"#, "~> 3.8.7"
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 
+gem 'webrick'
+
 gem "github-pages", group: :jekyll_plugins
 
 gem 'jekyll-include-cache'
 
-gem 'webrick'
+# gem 'webrick'
 
 # If you want to use Jekyll native, uncomment the line below.
 # To upgrade, run `bundle update`.

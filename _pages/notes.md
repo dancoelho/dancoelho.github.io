@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Notes & Downloads"
-permalink: /downloads/
+title: "Notes"
+permalink: /notes/
 author_profile: true
 redirect_from:
   - /resume
