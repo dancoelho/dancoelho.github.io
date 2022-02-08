@@ -21,7 +21,7 @@ My **research interests** lie in computational materials science, including:
 
 * Mathematical modeling of pattern formation in complex systems
 * Nonequilibrium thermodynamics
-* Phase Field Crystal (PFC) modelling
+* Phase Field (PF) and Phase Field Crystal (PFC) modelling
 * Solidification and solid-state transformations
 
 
