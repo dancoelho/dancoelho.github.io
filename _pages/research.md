@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-Brief descriptions for each of the few works I've developed so far.
+Brief descriptions of a few works I've developed (or want to develop) so far.
 
 <style>
 /* Style the Image Used to Trigger the Modal */
