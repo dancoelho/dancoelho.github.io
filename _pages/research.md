@@ -109,7 +109,7 @@ Gradients of the bifurcation parameter can induce stripe orientation in the Swif
 <br><br> -->
 
 
-## Nonuniform forcing and stripe orientation in Swift-Hohenberg
+## Nonuniform forcing and stripe orientation in Swift-Hohenberg dynamics
 
 {: style="text-align: justify" }
 Gradients of the bifurcation parameter can induce stripe orientation in the Swift-Hohenberg dynamics. However, they face competition from boundary, bulk and geometric effects, and pattern alignment becomes an intricate question. [[more]](../_pages/404.md)

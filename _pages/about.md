@@ -22,7 +22,8 @@ My **research interests** lie in computational materials science, including:
 * Mathematical modeling of pattern formation in complex systems
 * Nonequilibrium thermodynamics
 * Phase Field (PF) and Phase Field Crystal (PFC) modelling
-* Solidification and solid-state transformations
+* Amorphous metals formation
+* Rapid solidification and defects dynamics
 
 
 For **author name**, I go by: Daniel L. Coelho or D. L. Coelho.
