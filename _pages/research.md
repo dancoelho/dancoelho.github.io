@@ -135,14 +135,14 @@ Several numerical works consider regular geometries when studying temperature gr
 ## Pattern formation in the Bénard-Marangoni convection
 
 {: style="text-align: justify" }
-Bénard-Marangoni convection exhibits square, hexagonal, and other peculiar patterns that can be modeled by the Knobloch equation. This fourth-order nonlinear evolution equation is derived _via_ multiple scales formalism and reproduces the main features of the full dynamics. [[more]](../_pages/knobloch.html)
+Bénard-Marangoni convection exhibits square, hexagonal, and other peculiar patterns that can be modeled by the Knobloch equation. This (a) fourth-order nonlinear evolution equation is derived _via_ multiple scales formalism and reproduces the (b) main features of the full dynamics observed in experimental setups. [[more]](../_pages/knobloch.html)
 
 
 <!-- <img src="{{ base_path }}/images/KN/KN1.png" alt="Benard-marangoni-cell-1" style="width:200px;height:200px;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
 <!-- <img src="{{ base_path }}/images/KN/KN2.png" alt="Benard-marangoni-cell-2" style="width:200px;height:200px;"> -->
 <!-- Trigger the Modal -->
 
- <img src="{{ base_path }}/images/KN/full.png" alt="KN-full" style="width:40%;height:auto;">
+ <img src="{{ base_path }}/images/KN/full2.png" alt="KN-full" style="width:50%;height:auto;">
 <br><br>
 
 ## Electric induced lamellar alignment in block copolymers
@@ -153,14 +153,14 @@ block copolymers (BCPs) thin films is examined by numerically solving the
 Otha-Kawasaki model. Numerical results indicate that the application of a electric
 field in the preferred direction can be employed to produce 
 ordered lamellar nanostructures in both symmetric and assymetric
-BCPs thin films. The process of lamellar pattern formation consists 
+BCPs thin films. [[more]](../_pages/404.md)
+
+<!-- The process of lamellar pattern formation consists 
 of phase nucleation and phase coarsening, through the mechanisms of 
 dislocations climbing and molecular diffusion. It's also observed that 
 an external electric field has no noticeable 
 effect on the extent of phase separation, only in the orientatation
-of the structure. [[more]](../_pages/404.md)
-
-
+of the structure. -->
 <!-- <img src="{{ base_path }}/images/KN/KN1.png" alt="Benard-marangoni-cell-1" style="width:200px;height:200px;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
 <!-- <img src="{{ base_path }}/images/KN/KN2.png" alt="Benard-marangoni-cell-2" style="width:200px;height:200px;"> -->
 <!-- Trigger the Modal -->

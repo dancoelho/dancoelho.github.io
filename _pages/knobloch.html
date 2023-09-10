@@ -16,10 +16,16 @@ Numerical results obtained for the equation derived by E. Knobloch used to study
 
 \[
 	\dfrac{\partial u}{\partial t}=\alpha u-\mu \nabla^2u-\nabla^4u+
+	\nabla \cdot \bigg[ k|\nabla u|^2\nabla u+
+	\beta\left(\nabla^2 u \nabla u \right) - \gamma u \nabla u +
+	\delta \nabla|\nabla u|^2 \bigg] \nonumber
+\]
+<!-- \[
+	\dfrac{\partial u}{\partial t}=\alpha u-\mu \nabla^2u-\nabla^4u+
 	k\nabla \cdot |\nabla u|^2\nabla u+
 	\beta\nabla\cdot \left(\nabla^2 u \nabla u \right) - \gamma\nabla\cdot u \nabla u +
 	\delta \nabla^2|\nabla u|^2 \nonumber
-\]
+\] -->
 <div style="text-align: justify">
 Generalized Dirichlet boundary conditions (\(u={\partial u}/{\partial n}=0\)) are assumed for the numerical integration of the governing equation. The numerical scheme consisted of the classical operator splitting scheme of <i>stabilizing correction</i> [4], presenting fourth-order diffusion operators. The \(L_1\) norm was used to measure the rate of change of the distance between two successive states of the system, therefore, it is sensitive to the evolution of both the amplitude and the phase. Steady states assumed for \(L_1 \leq 1 \times 10^{-6}\).
 </div>
