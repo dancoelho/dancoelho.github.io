@@ -1,6 +1,6 @@
 ---
 <!-- layout: archive -->
-title: "_Résumé_"
+title: "_Curriculum Vitae_"
 permalink: /cv/
 author_profile: true
 redirect_from:
