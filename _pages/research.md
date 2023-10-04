@@ -142,7 +142,7 @@ Bénard-Marangoni convection exhibits square, hexagonal, and other peculiar patt
 <!-- <img src="{{ base_path }}/images/KN/KN2.png" alt="Benard-marangoni-cell-2" style="width:200px;height:200px;"> -->
 <!-- Trigger the Modal -->
 
- <img src="{{ base_path }}/images/KN/full2.png" alt="KN-full" style="width:50%;height:auto;">
+ <img src="{{ base_path }}/images/KN/full.png" alt="KN-full" style="width:50%;height:auto;">
 <br><br>
 
 ## Electric induced lamellar alignment in block copolymers
