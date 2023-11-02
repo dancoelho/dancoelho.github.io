@@ -17,6 +17,11 @@ I obtained my MSc from the Mechanical Engineering Graduate Program ([PPG-EM](htt
 
 <!-- M research on computational materials science (theory and simulation), with emphasis on Pattern Formation, Defects and Microstructures in Nonequilibrium Systems; involving numerical and nonlinear methods (linear stability analysis, weakly nonlinear analysis, etc). Other interests are Metallurgy, Solid State Physics, Nanotechnology and Computational Engineering. -->
 
+<!-- My group research interests are at the intersection of astrophysics, particle physics and cosmology. Our main goal is to extract as much information as possible about what our Universe is made of by considering how astrophysical systems would be affected with the addition of undiscovered particles and interactions. A major focus of our research is understanding the composition and behavior of dark matter, but we are also interested in other extensions of the Standard Model. While primarily theorists, we do occasionally get into the data when it is available. -->
+
+My research interests lie at the intersection of condensed matter physics and materials science and engineering. My main goal is accurately describing matter interactions and establishing the connections between atomic-scale behaviour and macroscopic properties as much as possible. A major focus of my research is understanding how complex crystal structures stabilize to form the well-known microstructures experimentally observed in metals and alloys, particularly. Once a theory is developed, a model usually follows and then a numerical analysis of microstructure evolution during a specific material processing can be carried out. While primarily theorist, I do occasionally get into the data whenever it is available.
+
+
 My **research interests** lie in computational materials science, including:
 
 * Mathematical modeling of pattern formation in complex systems
