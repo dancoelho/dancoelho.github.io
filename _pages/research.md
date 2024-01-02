@@ -145,7 +145,7 @@ Bénard-Marangoni convection exhibits square, hexagonal, and other peculiar patt
  <img src="{{ base_path }}/images/KN/full.png" alt="KN-full" style="width:50%;height:auto;">
 <br><br>
 
-## Electric induced lamellar alignment in block copolymers
+<!-- ## Electric induced lamellar alignment in block copolymers
 
 {: style="text-align: justify" }
 The molecular self-assembly of symmetric and assymetric
@@ -155,18 +155,9 @@ field in the preferred direction can be employed to produce
 ordered lamellar nanostructures in both symmetric and assymetric
 BCPs thin films. [[more]](../_pages/404.md)
 
-<!-- The process of lamellar pattern formation consists 
-of phase nucleation and phase coarsening, through the mechanisms of 
-dislocations climbing and molecular diffusion. It's also observed that 
-an external electric field has no noticeable 
-effect on the extent of phase separation, only in the orientatation
-of the structure. -->
-<!-- <img src="{{ base_path }}/images/KN/KN1.png" alt="Benard-marangoni-cell-1" style="width:200px;height:200px;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
-<!-- <img src="{{ base_path }}/images/KN/KN2.png" alt="Benard-marangoni-cell-2" style="width:200px;height:200px;"> -->
-<!-- Trigger the Modal -->
 
  <img src="{{ base_path }}/images/EBCPs/BCPmorphologies.png" alt="EBCPs" style="width:50%;height:auto;">
-<br><br>
+<br><br> -->
 
 <!-- <img id="myImg" src="{{ base_path }}/images/KN/full.png" alt="Snow" style="width:100%;height:auto"> -->
 
