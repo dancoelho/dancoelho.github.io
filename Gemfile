@@ -1,10 +1,16 @@
 source "https://rubygems.org"
 
 ruby "3.0.0"
+# ruby "2.7.6"
 
-gem "jekyll"#, "~> 3.8.7"
+gem "jekyll"#, "~> 3.5"
+# gem "jekyll", "~> 3.5"
+gem 'json', '~> 2.6', '>= 2.6.3'
 
 gem 'eventmachine', :git => 'git://github.com/eventmachine/eventmachine.git', :branch => 'master'
+# gem 'eventmachine', '1.2.7', git: 'git@github.com:eventmachine/eventmachine', tag: 'v1.2.7'
+# gem 'eventmachine', :git => 'git://github.com/eventmachine/eventmachine.git', :branch => 'master'
+# gem 'eventmachine', :git => 'git://github.com/eventmachine/eventmachine.git', :branch => 'master'
 
 # Hello! This is where you manage which Jekyll version is used to run.
 # When you want to use a different version, change it below, save the
@@ -18,6 +24,9 @@ gem 'eventmachine', :git => 'git://github.com/eventmachine/eventmachine.git', :b
 gem 'webrick'
 
 gem "github-pages", group: :jekyll_plugins
+
+gem 'jekyll-theme-hacker', '~> 0.2.0'
+gem "minimal-mistakes-jekyll"
 
 gem 'jekyll-include-cache'
 
