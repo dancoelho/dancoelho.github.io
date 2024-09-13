@@ -21,7 +21,7 @@ Further information about this list of publications can be found in [Google Scho
 
 1. _**Generalizing the structural phase field crystal approach for modeling solid-liquid-vapor phase transformations in pure materials**_,
 Daniel L. Coelho, Duncan Burns, Emily Wilson, and Nikolas Provatas<br>
-<a href="" target="_blank">Physica Review Materials (2024)</a><br>
+<a href="https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.8.093402" target="_blank">Physical Review Materials (2024)</a><br>
 <a href="https://arxiv.org/abs/2408.10992" target="_blank">[arXiv]</a>
 
 2. _**Stripe patterns orientation resulting from nonuniform forcings and other competitive effects in the Swift-Hohenberg dynamics**_,
