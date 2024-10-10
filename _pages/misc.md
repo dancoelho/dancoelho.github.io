@@ -1,12 +1,12 @@
 ---
 permalink: /misc/
-layout: archive
-title: "Miscellaneous"
+<!-- layout: archive -->
+title: "_Miscellaneous_"
 redirect_from:
   - /resume
 ---
 
-## Zoe Trio
+# Zoe Trio
 
 Brazilian power trio that mixes the rock'n'roll energy to a jazz approach to improvisation. Diverse set of influences: Macaco Bong; Toe; Medeski, Martin & Wood; The Nels Cline Singers; Bill Frisell; John Scofield.
 
@@ -38,7 +38,7 @@ Abraão Sousa/Daniel Coelho - bass guitar<br>
 
 
 
-## Interlúdio
+# Interlúdio
 
 Brazilian folk rock band that mixes narrative and confessional lyrics, always leading to a reflection on their stories. Diverse set of influences: Wilco; Ryan Adams; Neil Young; Johnny Cash; Dawes.
 

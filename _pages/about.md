@@ -1,7 +1,7 @@
 ---
 permalink: /
-layout: archive
-title: "Bio"
+<!-- layout: archive -->
+title: "_About_"
 excerpt: "Home"
 redirect_from: 
   - /about/
@@ -10,26 +10,33 @@ redirect_from:
 
 {: style="text-align: justify" }
 
-I am a PhD student at McGill University, Department of Physics, working in Prof. [Nikolas Provatas group](http://www.physics.mcgill.ca/~provatas/.index.html).
+Currently, I am a PhD student at McGill University, Department of Physics, working in Prof. [Nikolas Provatas group](http://www.physics.mcgill.ca/~provatas/.index.html).
 
-I obtained my MSc from the Mechanical Engineering Graduate Program ([PPG-EM](http://www.ppgem.uerj.br/en/index.html)) of the Rio de Janeiro State University ([UERJ](https://www.uerj.br)), supervised by Profs. [José Pontes](http://www.gesar.uerj.br/en/staff/professor-jose-pontes.html) and [Norberto Mangiavacchi](http://www.gesar.uerj.br/en/staff/professor-norberto-mangiavacchi.html). We worked on developing computational modelling of pattern formation in dissipative structures, such as reaction-diffusion systems and Rayleigh-Bénard convection cells. We numerically investigated how stripe orientation is induced by gradients of the bifurcation parameter in the Swift-Hohenberg dynamics, and compared to analytical predictions based on multiple scale analysis whenever possible.
+Through theoretical modeling and computational tools, I study the atomic-scale behavior of materials, particularly metals, and their connection to macroscopic properties. My research focuses on how complex crystal structures and different phases stabilize to form the microstructures observed experimentally. Once a theory is developed, it is followed by modeling, which enables a numerical analysis of microstructure evolution during specific material processing.
+
+
+<!-- I obtained my M.S. from the Mechanical Engineering Graduate Program ([PPG-EM](http://www.ppgem.uerj.br/en/index.html)) of the Rio de Janeiro State University ([UERJ](https://www.uerj.br)), supervised by Profs. [José Pontes](http://www.gesar.uerj.br/en/staff/professor-jose-pontes.html) and [Norberto Mangiavacchi](http://www.gesar.uerj.br/en/staff/professor-norberto-mangiavacchi.html). We worked on developing computational modelling of pattern formation in dissipative structures, such as reaction-diffusion systems and Rayleigh-Bénard convection cells. We numerically investigated how stripe orientation is induced by gradients of the bifurcation parameter in the Swift-Hohenberg dynamics, and compared to analytical predictions based on multiple scale analysis whenever possible. -->
 
 
 <!-- M research on computational materials science (theory and simulation), with emphasis on Pattern Formation, Defects and Microstructures in Nonequilibrium Systems; involving numerical and nonlinear methods (linear stability analysis, weakly nonlinear analysis, etc). Other interests are Metallurgy, Solid State Physics, Nanotechnology and Computational Engineering. -->
 
 <!-- My group research interests are at the intersection of astrophysics, particle physics and cosmology. Our main goal is to extract as much information as possible about what our Universe is made of by considering how astrophysical systems would be affected with the addition of undiscovered particles and interactions. A major focus of our research is understanding the composition and behavior of dark matter, but we are also interested in other extensions of the Standard Model. While primarily theorists, we do occasionally get into the data when it is available. -->
 
-My research interests lie at the intersection of condensed matter physics and materials science and engineering. My main goal is accurately describing matter interactions and establishing the connections between atomic-scale behaviour and macroscopic properties as much as possible. A major focus of my research is understanding how complex crystal structures stabilize to form the well-known microstructures experimentally observed in metals and alloys, particularly. Once a theory is developed, a model usually follows and then a numerical analysis of microstructure evolution during a specific material processing can be carried out. While primarily theorist, I do occasionally get into the data whenever it is available.
+My **research interests** lie at the intersection of condensed matter physics and materials science and engineering: 
 
+* Rapid solidification phenomena, void formation, crack propagation, and hydrogen embrittlement
+* Thermodynamic properties of pure materials and alloy systems
+* Simulation of morphology and microstructure evolution in metals
+* Phase Field (PF) and Phase Field Crystal (PFC) modelling
+* Computational tools and numerical methods (e.g., finite element analysis, parallel computing)
 
-My **research interests** lie in computational materials science, including:
-
-* Mathematical modeling of pattern formation in complex systems
+<!-- * Mathematical modeling of pattern formation in complex systems
 * Nonequilibrium thermodynamics
 * Phase Field (PF) and Phase Field Crystal (PFC) modelling
 * Amorphous metals formation
-* Rapid solidification and defects dynamics
+* Rapid solidification and defects dynamics -->
 
+<!-- My main goal is accurately describing matter interactions and establishing the connections between atomic-scale behaviour and macroscopic properties as much as possible. A major focus of my research is understanding how complex crystal structures stabilize to form the well-known microstructures experimentally observed in metals and alloys, particularly. Once a theory is developed, a model usually follows and then a numerical analysis of microstructure evolution during a specific material processing can be carried out. While primarily theorist, I do occasionally get into the data whenever it is available. -->
 
 For **author name**, I go by: Daniel L. Coelho or D. L. Coelho.
 

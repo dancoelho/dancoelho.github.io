@@ -1,6 +1,6 @@
 ---
-layout: archive
-title: "Notes"
+<!-- layout: archive -->
+title: "_Notes_"
 permalink: /notes/
 author_profile: true
 redirect_from:
