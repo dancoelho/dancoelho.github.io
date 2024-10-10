@@ -11,7 +11,7 @@ minify_html: false
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Daniel Coelho"
+title                    : "Daniel Lessa Coelho"
 title_separator          : "-"
 name                     : &name "Daniel Lessa Coelho"
 description              : &description "personal description"
