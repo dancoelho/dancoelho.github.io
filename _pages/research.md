@@ -108,12 +108,27 @@ Gradients of the bifurcation parameter can induce stripe orientation in the Swif
 <img src="{{ base_path }}/images/SH/SH23nonuniform.png" alt="SH23" style="width:40%;height:auto;">
 <br><br> -->
 
+## Multicomponent of Interstitial Lattices with PFC
+
+{: style="text-align: justify" }
+Single crystal coexistence with liquid simulated with a two-component interstitial PFC model in 2D. B atoms (solute) site at interstitial sites of a triangular crystal lattice of A atoms (host). [[more]](../_pages/404.md)
+<br><br>
+<img src="{{ base_path }}/images/interstitial-daniel/interstitial-pic.png" alt="interstitial-pfc" style="width:60%;height:auto;">
+<br><br>
+
+## PFC models for vapour-liquid-solid coexistence and transitions
+
+{: style="text-align: justify" }
+A new phase field crystal (PFC) type theory is presented, which accounts for the full spectrum of solid-liquid-vapor phase transitions within the framework of a single density order parameter. [[more]](../_pages/vapourpfc.html)
+<br><br>
+<img src="{{ base_path }}/images/gaby-vapour-pfc.png" alt="vapour-pfc" style="width:50%;height:auto;">
+<br><br>
 
 ## Nonuniform forcing and stripe orientation in Swift-Hohenberg dynamics
 
 {: style="text-align: justify" }
 Gradients of the bifurcation parameter can induce stripe orientation in the Swift-Hohenberg dynamics. However, they face competition from boundary, bulk and geometric effects, and pattern alignment becomes an intricate question. [[more]](../_pages/404.md)
-
+<br><br>
 <img src="{{ base_path }}/images/SH/SH23nonuniform.png" alt="SH23" style="width:40%;height:auto;">
 <br><br>
 
@@ -122,8 +137,7 @@ Gradients of the bifurcation parameter can induce stripe orientation in the Swif
 
 {: style="text-align: justify" }
 Several numerical works consider regular geometries when studying temperature gradients across a Rayleigh-Bénard convection cell. A numerical approach based on a finite-difference scheme is proposed for studying such system in a circular geometry maintaining second-order accuracy at the boundary conditions. [[more]](../_pages/404.md)
-
-
+<br><br>
 <!-- <img src="{{ base_path }}/images/RB/fig_0.png" alt="RB-cell-1" style="width:200px;height:200px;"> &nbsp;&nbsp;
 <img src="{{ base_path }}/images/RB/fig_10.png" alt="RB-cell-2" style="width:200px;height:200px;"> &nbsp;&nbsp;
 <img src="{{ base_path }}/images/RB/fig_100.png" alt="RB-cell-3" style="width:200px;height:200px;"> &nbsp;&nbsp;
@@ -136,8 +150,7 @@ Several numerical works consider regular geometries when studying temperature gr
 
 {: style="text-align: justify" }
 Bénard-Marangoni convection exhibits square, hexagonal, and other peculiar patterns that can be modeled by the Knobloch equation. This (a) fourth-order nonlinear evolution equation is derived _via_ multiple scales formalism and reproduces the (b) main features of the full dynamics observed in experimental setups. [[more]](../_pages/knobloch.html)
-
-
+<br><br>
 <!-- <img src="{{ base_path }}/images/KN/KN1.png" alt="Benard-marangoni-cell-1" style="width:200px;height:200px;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
 <!-- <img src="{{ base_path }}/images/KN/KN2.png" alt="Benard-marangoni-cell-2" style="width:200px;height:200px;"> -->
 <!-- Trigger the Modal -->

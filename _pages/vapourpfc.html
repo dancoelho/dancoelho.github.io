@@ -1,0 +1,85 @@
+---
+layout: archive
+title: "PFC models for vapour-liquid-solid coexistence and transitions"
+permalink: /vapourpfc/
+author_profile: true
+breadcrumbs: true
+redirect_from:
+  - /research
+---
+<!-- <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+<br><br> -->
+<div style="text-align: justify">
+Kocher <i>et al.</i> [1] included the vapour model into the standard PFC 
+framework, and arrived at the following model:
+</div>
+
+\[
+	\dfrac{\Delta F}{\rho_0 k_B T a^d}
+    =
+    \int{d\mathbf{r}}
+    \left\{
+        \left[\Delta B+B^x (1+\nabla^2)^2\right]
+        \dfrac{n^2}{2} 
+        -\sigma\dfrac{n^3}{3} 
+        + \nu\dfrac{n^4}{4} 
+        + (a\Delta B+b)\dfrac{1}{3}n\,n_{mf}^2 + \dfrac{c}{4}n\,n_{mf}^3
+    \right\}
+\]
+<div style="text-align: justify">
+where \(n_{mf}(\mathbf{r})=\int d\mathbf{r}' \chi(\mathbf{r}-\mathbf{r}')n(\mathbf{r}')\) is defined as the "density mean-field". The bulk compressibility and the strength of the anisotropy in the periodic phase is controlled by $B^x$, while \(B^\ell\) corresponds to the inverse compressibility of the liquid phase, such that \(\Delta B=B^\ell-B^x\) acts as an effective temperature parameter. This model considers the original two-point correlation function proposed by Elder <i>et al.</i>, i.e. \(\hat{C}_2(\mathbf{q})=1-\Delta B -B^x(|\mathbf{q}|^2-1)^2\), in Fourier space, which produces triangular (BCC) solid phase in 2D (3D). The terms coupling the density to its mean-field result from incorporating higher-order correlations, which are defined as smoothing kernels designed to operate only on the long wavelength of the density field as \(\hat{\chi}(\mathbf{q})=\exp[-|\mathbf{q}|^2/2\lambda^2]\). This approach was the starting point of this class of vapor PFC models that consider effective higher-order correlations to control the liquid and vapor phases.
+<!-- Generalized Dirichlet boundary conditions (\(u={\partial u}/{\partial n}=0\)) are assumed for the numerical integration of the governing equation. The numerical scheme consisted of the classical operator splitting scheme of <i>stabilizing correction</i> [4], presenting fourth-order diffusion operators. The \(L_1\) norm was used to measure the rate of change of the distance between two successive states of the system, therefore, it is sensitive to the evolution of both the amplitude and the phase. Steady states assumed for \(L_1 \leq 1 \times 10^{-6}\). -->
+</div>
+<br>
+
+<figure>
+	<center>
+		<img src="{{ base_path }}/images/kocher_fig1.png" style="width:80%;height:auto;">
+		<figcaption style="text-align: justify;width:80%">
+			FIG. \(1\):
+			(a) Density-temperature-pressure and (b) pressure-temperature phase diagrams of model. Solid thick lines correspond to one-mode calculations. In (a), green: vapor, blue: liquid, red: periodic coexistence values. Dashed line is the vapor-liquid spinodal. In (b), dashed lines show metastability regions. Black dots show average coexistence density [in (a)] or pressure [in (b)] from isothermal simulations.
+		</figcaption>
+	</center>
+</figure>
+
+<figure>
+	<center>
+		<img src="{{ base_path }}/images/kocher_fig2.png" style="width:80%;height:auto;">
+		<figcaption style="text-align: justify;width:80%">
+			FIG. \(2\):
+			Three-phase dendritic growth. A solid seed (periodic
+			regions) grows into a metastable liquid (gray uniform areas).
+			High depletion areas nucleate vapor pockets (black regions).
+		</figcaption>
+	</center>
+</figure>
+<div style="text-align: justify">
+Jreidini <i>et al.</i> considered a more generalized version of Kocher's model, in which all parameters are temperature dependent (up to second order), and now the two-point direct correlation is designed as in XPFC models, with Gaussian peaks.
+<p>
+This new formalism introduced here allows for novel, and experimentally relevant, applications in solid-vapor growth to be explored. Our theory captures the thermodynamics of pure substances excellently, while maintaining a funda- mental connection with all elastoplastic properties of solids. The formalism introduced here offers new tools to model experimental processes in the fields of crystal growth (chemical vapor deposition or vapor-solid-liquid growth) or soft matter systems (phase separation in polymers, polymer crystals, or colloidal suspensions).
+</p></div>
+<br><br><br>
+
+<h2>References</h2>
+
+[1] Kocher, G. and Provatas, N.,
+<a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.114.155501" target="_blank">
+Physical review letters, 114(15), 155501. (2015)</a>.
+<br>
+[2] Jreidini, P., Pinomaa, T., Wiezorek, J.M., McKeown, J.T., Laukkanen, A. and Provatas, N.
+<a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.205701" target="_blank">
+ Physical review letters, 127(20), 205701. (2021)</a>.
+<!-- <br> -->
+<!-- [3] C.I. Christov, J. Pontes, D. Walgraef, and M.G. Velarde,
+<a href="https://www.sciencedirect.com/science/article/pii/S0045782596011760" target="_blank">
+CMAME, 148(3-4), 209-224 (1997)</a>.
+<br>
+[4] Yanenko, N. N., 
+<a href="https://link.springer.com/book/10.1007%2F978-3-642-65108-3" target="_blank">
+The Method of Fractional Steps</a>, New York: Springer, (1971). -->
+
+<!-- \[x = {-b \pm \sqrt{b^2-4ac} \over 2a}.\]
+
+When \(a \ne 0\), there are two solutions to \(ax^2 + bx + c = 0\) and they are
+  \[x = {-b \pm \sqrt{b^2-4ac} \over 2a}.\] -->
