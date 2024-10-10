@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-Handy notes about physics, engineering, softwares, and numerical methods. Useful downloads for simulations and programming.
+(Possibly) useful stuff for physics, engineering, programming, etc.
 
 ## Numerical methods
 

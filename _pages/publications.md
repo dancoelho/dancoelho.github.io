@@ -15,7 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-Additional publications may be found in [Google Scholar](https://scholar.google.com.br/citations?user=HxYY8LQAAAAJ&hl=pt-BR).
+[Google Scholar](https://scholar.google.com.br/citations?user=HxYY8LQAAAAJ&hl=pt-BR) for more.
 
 ## Journal Articles
 
