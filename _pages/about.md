@@ -12,7 +12,14 @@ redirect_from:
 
 Currently, I am a PhD student at McGill University, Department of Physics, working in Prof. [Nikolas Provatas group](http://www.physics.mcgill.ca/~provatas/.index.html).
 
-Through theoretical modelling and computational tools, I study the atomic-scale behaviour of materials, particularly metals, and its connection to macroscopic properties. My research focuses on the interplay between atomic species and different phases for a given material processing, and how it affects on the resulting microstructure. Once a theory is developed, a numerical model usually follows, allowing for the simulation of microstructure evolution during specific material processing.
+Through theoretical modelling and computational tools, I study the 
+atomic-scale behaviour of materials, particularly metals, and its 
+connection to macroscopic properties. My research focuses on the 
+interplay between atomic species and different phases for a given 
+material processing, and how it affects the resulting microstructure.
+Once a theory is developed, a numerical model usually follows, allowing 
+for the simulation of microstructure evolution during specific material 
+processing.
 
 
 <!-- I obtained my M.S. from the Mechanical Engineering Graduate Program ([PPG-EM](http://www.ppgem.uerj.br/en/index.html)) of the Rio de Janeiro State University ([UERJ](https://www.uerj.br)), supervised by Profs. [José Pontes](http://www.gesar.uerj.br/en/staff/professor-jose-pontes.html) and [Norberto Mangiavacchi](http://www.gesar.uerj.br/en/staff/professor-norberto-mangiavacchi.html). We worked on developing computational modelling of pattern formation in dissipative structures, such as reaction-diffusion systems and Rayleigh-Bénard convection cells. We numerically investigated how stripe orientation is induced by gradients of the bifurcation parameter in the Swift-Hohenberg dynamics, and compared to analytical predictions based on multiple scale analysis whenever possible. -->
@@ -24,7 +31,7 @@ Through theoretical modelling and computational tools, I study the atomic-scale 
 
 My **research interests** lie at the intersection of condensed matter physics and materials science and engineering: 
 
-* Rapid solidification phenomena, void formation, crack propagation, and hydrogen embrittlement
+* Rapid solidification phenomena, crack propagation, and hydrogen embrittlement
 * Thermodynamic properties of pure materials and alloy systems
 * Simulation of morphology and microstructure evolution in metals
 * Phase Field (PF) and Phase Field Crystal (PFC) modelling

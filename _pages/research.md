@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-Some of the topics my collaborators and I are working or have worked on.
+Some of the topics my collaborators and I have been working on.
 
 <style>
 /* Style the Image Used to Trigger the Modal */
