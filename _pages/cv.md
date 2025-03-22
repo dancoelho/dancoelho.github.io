@@ -9,6 +9,7 @@ redirect_from:
 
 <!-- {% include base_path %} -->
 
+
 # Education
 
 * **Ph.D. in Physics**<br>
@@ -23,6 +24,9 @@ redirect_from:
   Advisor: [José Pontes](http://www.gesar.uerj.br/en/staff/professor-jose-pontes.html)
 
 
+<iframe src="/files/cv_coelho_daniel.pdf" width="100%" height="800px"></iframe>
+
+<!-- 
 # Skills
 
 * **Programming**<br>
@@ -39,7 +43,7 @@ redirect_from:
   Autodesk&copy;, AutoCAD 2D/3D&copy;, SolidWorks&trade;, AVEVA&trade; Plant Design Management System (PDMS), Everything 3D (E3D), Fusion 360.
 
 * **Web Dev**<br>
-  HTML, CSS, JavaScript, Markdown.
+  HTML, CSS, JavaScript, Markdown. -->
 
 <!-- Honors & Awards
 ======

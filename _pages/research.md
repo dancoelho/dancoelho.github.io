@@ -108,6 +108,11 @@ Gradients of the bifurcation parameter can induce stripe orientation in the Swif
 <img src="{{ base_path }}/images/SH/SH23nonuniform.png" alt="SH23" style="width:40%;height:auto;">
 <br><br> -->
 
+## TMS 2025 Poster
+
+<iframe src="/files/TMS_2025_Poster_Daniel_Coelho.pdf" width="100%" height="800px"></iframe>
+
+
 ## Multicomponent of Interstitial Lattices with PFC
 
 {: style="text-align: justify" }
