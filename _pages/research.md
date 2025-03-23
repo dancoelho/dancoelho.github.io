@@ -108,9 +108,18 @@ Gradients of the bifurcation parameter can induce stripe orientation in the Swif
 <img src="{{ base_path }}/images/SH/SH23nonuniform.png" alt="SH23" style="width:40%;height:auto;">
 <br><br> -->
 
-## TMS 2025 Poster
+<!-- ## TMS 2025 Poster
 
-<iframe src="/files/TMS_2025_Poster_Daniel_Coelho.pdf" width="100%" height="800px"></iframe>
+<iframe src="/files/TMS_2025_Poster_Daniel_Coelho.pdf" width="100%" height="800px"></iframe> -->
+
+
+## Mesoscale Modeling of Hydrogen Embrittlement in Iron-Hydrogen Alloys
+
+{: style="text-align: justify" }
+Hydrogen embrittlement (HE) significantly reduces the ductility and strength of metals such as iron (Fe) and steel alloys, with grain boundaries (GB) acting as sinks for hydrogen atoms (H), making them susceptible to the initiation and propagation of voids. Although experimental studies have improved our understanding of HE, the relationship between solutes in GBs and HE remains unclear, and a unified theory bridging atomic-scale mechanisms and mesoscale microstructure is still lacking. In the current study, we simulate the segregation of H in Fe GBs by using a recently developed phase field crystal (PFC) model extended for two components to describe the Fe-H alloy. We examine the evolution of the microstructure over diffusive time scales, guided by the phase diagram of the proposed model. Our numerical results demonstrate that H weakens the microstructure by reducing the GB separation energy and may lead to voiding when it accumulates along GB. [[TMS2025 Poster]](../_pages/tms2025.html)
+<br><br>
+<img src="{{ base_path }}/images/hydrogen-embrittlment.png" alt="hydrogen-embrittlment" style="width:60%;height:auto;">
+<br><br>
 
 
 ## Multicomponent of Interstitial Lattices with PFC
