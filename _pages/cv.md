@@ -10,7 +10,7 @@ redirect_from:
 <!-- {% include base_path %} -->
 
 
-<!-- # Education
+# Education
 
 * **Ph.D. in Physics**<br>
   Department of Physics, McGill University, Canada, 2021 - on going<br>
@@ -21,20 +21,21 @@ redirect_from:
   [Norberto Mangiavacchi](http://www.gesar.uerj.br/en/staff/professor-norberto-mangiavacchi.html)
 * **B.S. in Mechanical Engineering**<br>
   MECAN, Rio de Janeiro State University (UERJ), Brazil, 2018<br>
-  Advisor: [José Pontes](http://www.gesar.uerj.br/en/staff/professor-jose-pontes.html) -->
+  Advisor: [José Pontes](http://www.gesar.uerj.br/en/staff/professor-jose-pontes.html)
 
-PDF version available <a href="{{ base_path }}/files/cv_coelho_daniel.pdf" download="cv_coelho_daniel.pdf" target="_blank">here</a> (224KB). 
+
+
+<!-- PDF version available <a href="{{ base_path }}/files/cv_coelho_daniel.pdf" download="cv_coelho_daniel.pdf" target="_blank">here</a> (224KB). 
 
 <figure>
   <center>
     <img src="{{ base_path }}/files/cv_screenshot.png" style="width:100%;height:auto;">
-<!--    <figcaption style="text-align: justify;width:80%">
-      FIG. \(1\):
-      Pattern evolution and its \(L_1\) norm. The simulation departed from random initial conditions around the solution \(u=0\). It is expected that the structure evolves into a stationary single-cell state, filling the whole bounding box.
-    </figcaption> -->
   </center>
-</figure>
-<!-- 
+</figure> -->
+
+
+
+
 # Skills
 
 * **Programming**<br>
@@ -51,7 +52,7 @@ PDF version available <a href="{{ base_path }}/files/cv_coelho_daniel.pdf" downl
   Autodesk&copy;, AutoCAD 2D/3D&copy;, SolidWorks&trade;, AVEVA&trade; Plant Design Management System (PDMS), Everything 3D (E3D), Fusion 360.
 
 * **Web Dev**<br>
-  HTML, CSS, JavaScript, Markdown. -->
+  HTML, CSS, JavaScript, Markdown.
 
 <!-- Honors & Awards
 ======
