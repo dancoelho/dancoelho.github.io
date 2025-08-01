@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-(Possibly) useful stuff for physics, engineering, programming, etc.
+Useful stuff for physics, engineering, programming, etc (possibly).
 
 ## Numerical methods
 

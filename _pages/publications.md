@@ -34,24 +34,31 @@ D. L. Coelho, E. Vitral, J. Pontes, and N. Mangiavacchi<br>
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S0377042721005938" target="_blank">Journal of Computational and Applied Mathematics (2022) </a><br>
 <a href="https://arxiv.org/abs/2007.16080" target="_blank">[arXiv]</a>
 
-## Conference Proceedings
+## Posters, Talks and Conference Proceedings
 
-1. _**Pattern formation survey on nonuniformly forced Swift-Hohenberg equation**_<br>
+1. _**Mesoscale modeling of hydrogen embrittlement in iron-hydrogen alloy**_<br>
+   D. L. Coelho and N. Provatas<br>
+   154th Annual Meeting & Exhibition (TMS 2025)<br>
+   MGM Grand Las Vegas Hotel & Casino, NV, USA
+
+2. _**Phase-field crystal modelling of hydrogen embrittlement in iron-hydrogen alloys**_<br>
+   D. L. Coelho and N. Provatas<br>
+   The 36th Canadian Materials Science Conference (CMSC 2025)<br>
+   University of Waterloo, ON, Canada
+
+3. _**Pattern formation survey on nonuniformly forced Swift-Hohenberg equation**_<br>
    D. L. Coelho, J. Pontes, and N. Mangiavacchi<br>
    25th International Congress of Mechanical Engineering (COBEM 2019)<br>
    Uberlândia Federal University (UFU), Uberlândia MG, Brazil
 
-2. _**Numerical study of defects in Swift-Hohenberg dynamics**_<br>
+4. _**Numerical study of defects in Swift-Hohenberg dynamics**_<br>
    J. Pontes, D. L. Coelho, and N. Mangiavacchi<br>
    Conference of Computational Interdisciplinary Sciences (CCIS 2019)<br>
    Georgia Institute of Technology (Georgia Tech), Atlanta GA, USA
 
-3. _**Numerical study of the Swift-hohenberg equation: defects dynamics for first and second order temporal discretization**_<br>
+5. _**Numerical study of the Swift-Hohenberg equation: defects dynamics for first and second order temporal discretization**_<br>
    D. L. Coelho, J. Pontes, and N. Mangiavacchi<br>
    XVII Academic Meeting of Computational Modeling (EAMC 2019)<br>
    National Laboratory for Scientific Computing (LNCC), Petrópolis RJ, Brazil
-
-
-
 
 

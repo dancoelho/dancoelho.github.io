@@ -40,7 +40,7 @@ Abraão Sousa/Daniel Coelho - bass guitar<br>
 
 # Interlúdio
 
-Brazilian folk rock band that mixes narrative and confessional lyrics, always leading to a reflection on their stories. Diverse set of influences: Wilco; Ryan Adams; Neil Young; Johnny Cash; Dawes.
+Brazilian folk rock band that mixes narrative and confessional lyrics, always leading to a reflection on their stories. Diverse set of influences: Wilco; Ryan Adams; Neil Young; Johnny Cash; Dawes; Dave Matthews Band.
 
 Diego Marins - lead vocals, acoustic guitar<br>
 Paulo Grua - electric guitar<br>
