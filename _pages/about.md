@@ -12,15 +12,16 @@ redirect_from:
 
 Currently, I am a PhD student at McGill University, Department of Physics, working in Prof. [Nikolas Provatas group](http://www.physics.mcgill.ca/~provatas/.index.html).
 
-Through theoretical modelling and computational tools, I study the 
+<!-- Through theoretical modelling and computational tools, I study the 
 atomic-scale behaviour of materials, particularly metals, and its 
 connection to macroscopic properties. My research focuses on the 
 interplay between atomic species and different phases for a given 
 material processing, and how it affects the resulting microstructure.
 Once a theory is developed, a numerical model usually follows, allowing 
 for the simulation of microstructure evolution during specific material 
-processing.
+processing. -->
 
+Through theoretical modeling and computational methods, I investigate the atomic-scale behavior of materials—particularly metals—and its connection to macroscopic properties. My research focuses on how atomic species interact across different phases during material processing, and how these interactions shape the resulting microstructure. Building on theoretical developments, I construct numerical models that enable the simulation of microstructure evolution under specific processing conditions.
 
 <!-- I obtained my M.S. from the Mechanical Engineering Graduate Program ([PPG-EM](http://www.ppgem.uerj.br/en/index.html)) of the Rio de Janeiro State University ([UERJ](https://www.uerj.br)), supervised by Profs. [José Pontes](http://www.gesar.uerj.br/en/staff/professor-jose-pontes.html) and [Norberto Mangiavacchi](http://www.gesar.uerj.br/en/staff/professor-norberto-mangiavacchi.html). We worked on developing computational modelling of pattern formation in dissipative structures, such as reaction-diffusion systems and Rayleigh-Bénard convection cells. We numerically investigated how stripe orientation is induced by gradients of the bifurcation parameter in the Swift-Hohenberg dynamics, and compared to analytical predictions based on multiple scale analysis whenever possible. -->
 
@@ -29,13 +30,13 @@ processing.
 
 <!-- My group research interests are at the intersection of astrophysics, particle physics and cosmology. Our main goal is to extract as much information as possible about what our Universe is made of by considering how astrophysical systems would be affected with the addition of undiscovered particles and interactions. A major focus of our research is understanding the composition and behavior of dark matter, but we are also interested in other extensions of the Standard Model. While primarily theorists, we do occasionally get into the data when it is available. -->
 
-My **research interests** lie at the intersection of condensed matter physics and materials science and engineering: 
+My **research interests** lie at the intersection of condensed matter physics and materials science and engineering, with a focus on:
 
-* Rapid solidification phenomena, crack propagation, and hydrogen embrittlement
-* Thermodynamic properties of pure materials and alloy systems
-* Simulation of morphology and microstructure evolution in metals
-* Phase Field (PF) and Phase Field Crystal (PFC) modelling
-* Computational tools and numerical methods (e.g., finite element analysis, parallel computing)
+* Rapid solidification, fracture dynamics, and hydrogen embrittlement
+* Thermodynamics of pure substances and multicomponent alloys
+* Simulation of morphological instabilities and microstructure evolution in metals
+* Phase-field (PF) and phase-field crystal (PFC) modeling
+* Development and application of computational methods, including finite element analysis and parallel computing
 
 <!-- * Mathematical modeling of pattern formation in complex systems
 * Nonequilibrium thermodynamics
