@@ -30,6 +30,8 @@ gem "minimal-mistakes-jekyll"
 
 gem 'jekyll-include-cache'
 
+gem "kramdown-parser-gfm"
+
 # gem 'webrick'
 
 # If you want to use Jekyll native, uncomment the line below.
