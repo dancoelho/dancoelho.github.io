@@ -92,7 +92,7 @@ Some of the topics my collaborators and I have been working on.
 </style>
 
 
-## Atomic-scale Mechanisms of Hydrogen Embrittlement
+## Atomic-scale Mechanisms of Hydrogen Embrittlement: A Phase-Field Crystal Study
 
 {: style="text-align: justify" }
 Hydrogen embrittlement (HE) triggers a profound loss of ductility in metals, and an unified framework bridging atomic-scale hydrogen–defect interactions with established mesoscale mechanisms remains elusive. We address this by extending the Vapor-forming Structural Phase-Field Crystal (VXPFC) model [Phys. Rev. Mater. 8, 093402 (2024)] to a binary metal–hydrogen system. We demonstrate that three-particle interactions are essential to capture the elastic response of Cottrell atmospheres and the concurrent mechanisms of hydrogen absorption and grain boundary segregation. By quantifying the temperature-dependent stress response of the metal–hydrogen system under uniaxial tension, we provide a mechanistic basis for elucidating the dual hardening and softening effects of hydrogen on the host metal. [[TMS2025 Poster]](../_pages/tms2025.html)
