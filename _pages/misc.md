@@ -1,7 +1,7 @@
 ---
 permalink: /misc/
 <!-- layout: archive -->
-title: "_Miscellaneous_"
+title: "Miscellaneous"
 redirect_from:
   - /resume
 ---

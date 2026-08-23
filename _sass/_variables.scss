@@ -89,12 +89,33 @@ $youtube-color              : #bb0000;
 $xing-color                 : #006567;
 
 
+/*
+$background-color           : #141010;
+$code-background-color      : mix(#000, $background-color, 15%);
+$code-background-color-dark : mix(#000, $background-color, 20%);
+$text-color                 : #fff6fb;
+$border-color                : mix(#fff, $background-color, 20%);
+
+$primary-color               : #f21368;
+$success-color               : #62c462;
+$warning-color               : #f89406;
+$danger-color                 : #ee5f5b;
+$info-color                   : #52adc8; */
+
+
 /* links */
 $link-color                 : $info-color;
 $link-color-hover           : mix(#000, $link-color, 25%);
 $link-color-visited         : mix(#fff, $link-color, 25%);
 $masthead-link-color        : $primary-color;
 $masthead-link-color-hover  : mix(#000, $primary-color, 25%);
+
+/* links 
+$link-color                 : $primary-color;
+$link-color-hover           : mix(#fff, $link-color, 25%);
+$link-color-visited         : mix(#000, $link-color, 25%);
+$masthead-link-color        : $text-color;
+$masthead-link-color-hover  : mix(#000, $text-color, 20%);*/
 
 
 /*
@@ -151,3 +172,5 @@ $box-shadow                 : 0 1px 1px rgba(0, 0, 0, 0.125);
 $navicon-width              : 28px;
 $navicon-height             : 4px;
 $global-transition          : all 0.2s ease-in-out;
+
+

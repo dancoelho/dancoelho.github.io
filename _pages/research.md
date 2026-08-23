@@ -1,6 +1,6 @@
 ---
 <!-- layout: archive -->
-title: "_Research_"
+title: "Research"
 permalink: /research/
 author_profile: true
 redirect_from:
@@ -91,32 +91,11 @@ Some of the topics my collaborators and I have been working on.
 }
 </style>
 
-<!-- <a href="{{ base_path }}/files/Aula01.pdf" target="_blank"> Aula01</a> -->
 
-
-<!-- ## [Transient Chaos in Potential and Nonpotential Swift-Hohenberg Dynamics](../_pages/404.md)
-
-Gradients of the bifurcation parameter can induce stripe orientation in the Swift-Hohenberg dynamics. However, they face competition from boundary, bulk and geometric effects, and pattern alignment becomes an intrinsicate question.
-
-<img src="{{ base_path }}/images/SH/SH23nonuniform.png" alt="SH23" style="width:40%;height:auto;">
-<br><br> -->
-
-<!-- ## [Gradient Pattern Analysis of patterns](../_pages/404.md)
-
-Gradients of the bifurcation parameter can induce stripe orientation in the Swift-Hohenberg dynamics. However, they face competition from boundary, bulk and geometric effects, and pattern alignment becomes an intrinsicate question.
-
-<img src="{{ base_path }}/images/SH/SH23nonuniform.png" alt="SH23" style="width:40%;height:auto;">
-<br><br> -->
-
-<!-- ## TMS 2025 Poster
-
-<iframe src="/files/TMS_2025_Poster_Daniel_Coelho.pdf" width="100%" height="800px"></iframe> -->
-
-
-## Mesoscale Modeling of Hydrogen Embrittlement in Iron-Hydrogen Alloys
+## Atomic-scale Mechanisms of Hydrogen Embrittlement
 
 {: style="text-align: justify" }
-Hydrogen embrittlement (HE) significantly reduces the ductility and strength of metals such as iron (Fe) and steel alloys, with grain boundaries (GB) acting as sinks for hydrogen atoms (H), making them susceptible to the initiation and propagation of voids. Although experimental studies have improved our understanding of HE, the relationship between solutes in GBs and HE remains unclear, and a unified theory bridging atomic-scale mechanisms and mesoscale microstructure is still lacking. In the current study, we simulate the segregation of H in Fe GBs by using a recently developed phase field crystal (PFC) model extended for two components to describe the Fe-H alloy. We examine the evolution of the microstructure over diffusive time scales, guided by the phase diagram of the proposed model. Our numerical results demonstrate that H weakens the microstructure by reducing the GB separation energy and may lead to voiding when it accumulates along GB. [[TMS2025 Poster]](../_pages/tms2025.html)
+Hydrogen embrittlement (HE) triggers a profound loss of ductility in metals, and an unified framework bridging atomic-scale hydrogen–defect interactions with established mesoscale mechanisms remains elusive. We address this by extending the Vapor-forming Structural Phase-Field Crystal (VXPFC) model [Phys. Rev. Mater. 8, 093402 (2024)] to a binary metal–hydrogen system. We demonstrate that three-particle interactions are essential to capture the elastic response of Cottrell atmospheres and the concurrent mechanisms of hydrogen absorption and grain boundary segregation. By quantifying the temperature-dependent stress response of the metal–hydrogen system under uniaxial tension, we provide a mechanistic basis for elucidating the dual hardening and softening effects of hydrogen on the host metal. [[TMS2025 Poster]](../_pages/tms2025.html)
 <br><br>
 <img src="{{ base_path }}/images/hydrogen-embrittlment.png" alt="hydrogen-embrittlment" style="width:60%;height:auto;">
 <br><br>

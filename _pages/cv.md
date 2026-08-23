@@ -1,6 +1,6 @@
 ---
 <!-- layout: archive -->
-title: "_CV_"
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -12,14 +12,14 @@ redirect_from:
 
 # Education
 
-* **Ph.D. in Physics**<br>
-  Department of Physics, McGill University, Canada, 2021 - on going<br>
+* **Ph.D. Physics**<br>
+  Department of Physics, McGill University, Canada, 2026<br>
   Advisor: [Nikolas Provatas](https://www.chairs-chaires.gc.ca/chairholders-titulaires/profile-eng.aspx?profileId=2974)
-* **M.S. in Mechanical Engineering**<br>
+* **M.Sc. Mechanical Engineering**<br>
   PPGEM, Rio de Janeiro State University (UERJ), Brazil, 2020<br>
   Advisors: [José Pontes](http://www.gesar.uerj.br/en/staff/professor-jose-pontes.html), 
   [Norberto Mangiavacchi](http://www.gesar.uerj.br/en/staff/professor-norberto-mangiavacchi.html)
-* **B.S. in Mechanical Engineering**<br>
+* **B.Sc. Mechanical Engineering**<br>
   MECAN, Rio de Janeiro State University (UERJ), Brazil, 2018<br>
   Advisor: [José Pontes](http://www.gesar.uerj.br/en/staff/professor-jose-pontes.html)
 
