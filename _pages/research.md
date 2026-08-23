@@ -95,7 +95,7 @@ Some of the topics my collaborators and I have been working on.
 ## Atomic-scale Mechanisms of Hydrogen Embrittlement: A Phase-Field Crystal Study
 
 {: style="text-align: justify" }
-Hydrogen embrittlement (HE) triggers a profound loss of ductility in metals, and an unified framework bridging atomic-scale hydrogen–defect interactions with established mesoscale mechanisms remains elusive. We address this by extending the Vapor-forming Structural Phase-Field Crystal (VXPFC) model [Phys. Rev. Mater. 8, 093402 (2024)] to a binary metal–hydrogen system. We demonstrate that three-particle interactions are essential to capture the elastic response of Cottrell atmospheres and the concurrent mechanisms of hydrogen absorption and grain boundary segregation. By quantifying the temperature-dependent stress response of the metal–hydrogen system under uniaxial tension, we provide a mechanistic basis for elucidating the dual hardening and softening effects of hydrogen on the host metal. [[TMS2025 Poster]](../_pages/tms2025.html)
+Hydrogen embrittlement (HE) triggers a profound loss of ductility in metals, and an unified framework bridging atomic-scale hydrogen–defect interactions with established mesoscale mechanisms remains elusive. We address this by extending the Vapor-forming Structural Phase-Field Crystal (VXPFC) model [Phys. Rev. Mater. 8, 093402 (2024)] to a binary metal–hydrogen system. We demonstrate that three-particle interactions are essential to capture the elastic response of Cottrell atmospheres and the concurrent mechanisms of hydrogen absorption and grain boundary segregation. By quantifying the temperature-dependent stress response of the metal–hydrogen system under uniaxial tension, we provide a mechanistic basis for elucidating the dual hardening and softening effects of hydrogen on the host metal. [[TMS2025 Poster]](../tms2025/)
 <br><br>
 <img src="{{ base_path }}/images/hydrogen-embrittlment.png" alt="hydrogen-embrittlment" style="width:60%;height:auto;">
 <br><br>
@@ -104,7 +104,7 @@ Hydrogen embrittlement (HE) triggers a profound loss of ductility in metals, and
 ## Multicomponent of Interstitial Lattices with PFC
 
 {: style="text-align: justify" }
-Single crystal coexistence with liquid simulated with a two-component interstitial PFC model in 2D. B atoms (solute) site at interstitial sites of a triangular crystal lattice of A atoms (host). [[more]](../_pages/404.md)
+Single crystal coexistence with liquid simulated with a two-component interstitial PFC model in 2D. B atoms (solute) site at interstitial sites of a triangular crystal lattice of A atoms (host). [[More]](../404/)
 <br><br>
 <img src="{{ base_path }}/images/interstitial-daniel/interstitial-pic.png" alt="interstitial-pfc" style="width:60%;height:auto;">
 <br><br>
@@ -112,7 +112,7 @@ Single crystal coexistence with liquid simulated with a two-component interstiti
 ## PFC models for vapour-liquid-solid coexistence and transitions
 
 {: style="text-align: justify" }
-A new phase field crystal (PFC) type theory is presented, which accounts for the full spectrum of solid-liquid-vapor phase transitions within the framework of a single density order parameter. [[more]](../_pages/vapourpfc.html)
+A new phase field crystal (PFC) type theory is presented, which accounts for the full spectrum of solid-liquid-vapor phase transitions within the framework of a single density order parameter. [[more]](../vapourpfc/)
 <br><br>
 <img src="{{ base_path }}/images/gaby-vapour-pfc.png" alt="vapour-pfc" style="width:50%;height:auto;">
 <br><br>
@@ -120,7 +120,7 @@ A new phase field crystal (PFC) type theory is presented, which accounts for the
 ## Nonuniform forcing and stripe orientation in Swift-Hohenberg dynamics
 
 {: style="text-align: justify" }
-Gradients of the bifurcation parameter can induce stripe orientation in the Swift-Hohenberg dynamics. However, they face competition from boundary, bulk and geometric effects, and pattern alignment becomes an intricate question. [[more]](../_pages/404.md)
+Gradients of the bifurcation parameter can induce stripe orientation in the Swift-Hohenberg dynamics. However, they face competition from boundary, bulk and geometric effects, and pattern alignment becomes an intricate question. [[more]](../404/)
 <br><br>
 <img src="{{ base_path }}/images/SH/SH23nonuniform.png" alt="SH23" style="width:40%;height:auto;">
 <br><br>
@@ -129,7 +129,7 @@ Gradients of the bifurcation parameter can induce stripe orientation in the Swif
 ## Ramped Rayleigh-Bénard systems in circular geometries
 
 {: style="text-align: justify" }
-Several numerical works consider regular geometries when studying temperature gradients across a Rayleigh-Bénard convection cell. A numerical approach based on a finite-difference scheme is proposed for studying such system in a circular geometry maintaining second-order accuracy at the boundary conditions. [[more]](../_pages/404.md)
+Several numerical works consider regular geometries when studying temperature gradients across a Rayleigh-Bénard convection cell. A numerical approach based on a finite-difference scheme is proposed for studying such system in a circular geometry maintaining second-order accuracy at the boundary conditions. [[more]](../404/)
 <br><br>
 <!-- <img src="{{ base_path }}/images/RB/fig_0.png" alt="RB-cell-1" style="width:200px;height:200px;"> &nbsp;&nbsp;
 <img src="{{ base_path }}/images/RB/fig_10.png" alt="RB-cell-2" style="width:200px;height:200px;"> &nbsp;&nbsp;
@@ -142,7 +142,7 @@ Several numerical works consider regular geometries when studying temperature gr
 ## Pattern formation in the Bénard-Marangoni convection
 
 {: style="text-align: justify" }
-Bénard-Marangoni convection exhibits square, hexagonal, and other peculiar patterns that can be modeled by the Knobloch equation. This fourth-order nonlinear evolution equation is derived _via_ the multiple scales formalism and reproduces the main features of the phenomena observed in experimental setups. [[more]](../_pages/knobloch.html)
+Bénard-Marangoni convection exhibits square, hexagonal, and other peculiar patterns that can be modeled by the Knobloch equation. This fourth-order nonlinear evolution equation is derived _via_ the multiple scales formalism and reproduces the main features of the phenomena observed in experimental setups. [[more]](../knobloch/)
 <br><br>
 <!-- <img src="{{ base_path }}/images/KN/KN1.png" alt="Benard-marangoni-cell-1" style="width:200px;height:200px;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
 <!-- <img src="{{ base_path }}/images/KN/KN2.png" alt="Benard-marangoni-cell-2" style="width:200px;height:200px;"> -->

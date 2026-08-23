@@ -30,3 +30,28 @@ My **research interests** lie at the intersection of condensed matter physics an
 * Development and application of computational methods, including finite element analysis and parallel computing
 
 For **author name**, I go by: Daniel L. Coelho or D. L. Coelho.
+
+
+### _Dendritic growth with the binary XPFC model_
+
+<figure>
+  <center>
+    <img src="{{ base_path }}/images/videos/videoA.mp4" alt="dendritic-growth" style="width:30%;height:auto;">
+    <img src="{{ base_path }}/images/videos/videoB.mp4" alt="dendritic-growth" style="width:30%;height:auto;">
+    <figcaption style="text-align: justify;width:90%">
+      FIG. \(1\):
+      Two-dimensional simulation of dendritic growth from a circular crystal seed into an undercooled binary alloy melt.
+    </figcaption>
+  </center>
+</figure>
+<br><br>
+<figure>
+  <center>
+    <img src="{{ base_path }}/images/videos/dendritic_growth.mp4" alt="dendritic-growth" style="width:90%;height:auto;">
+    <figcaption style="text-align: justify;width:90%">
+      FIG. \(2\):
+      Two-dimensional simulation of dendritic growth from a square crystal seed into an undercooled binary alloy melt.
+    </figcaption>
+  </center>
+</figure>
+
