@@ -44,7 +44,6 @@ For **author name**, I go by: Daniel L. Coelho or D. L. Coelho.
     </figcaption>
   </center>
 </figure>
-<br><br>
 <figure>
   <center>
     <img src="{{ base_path }}/images/videos/dendritic_growth.mp4" alt="dendritic-growth" style="width:90%;height:auto;">
